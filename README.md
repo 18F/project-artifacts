@@ -4,7 +4,7 @@ So you've been assigned to work on a path analysis. Congratulations! These short
 
 We've written up specifics on [how to run a path analysis](https://github.com/18F/path-analysis/blob/master/approach.md).
 
-Check out the [previous path analysis projects].
+Check out the [previous path analysis projects](https://github.com/18F/path-analysis/blob/master/projects.md).
 
 ## Templates
 - [Path Analysis Report Template](https://docs.google.com/document/d/1DBgwnnHuvR2fAojOwjP8gZ3_jA9pEAGRRKOnmH69d0s/edit?pli=1#heading=h.b6vwy1wu1e2v) (make a copy first!)
