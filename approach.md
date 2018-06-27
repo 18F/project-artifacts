@@ -1,20 +1,20 @@
 # Path Analysis Approach
 Once the agreement has been signed, you can start billable work on the project. The steps in the project will probably look something like this: 
 
-1. [Meet with CPS for the internal handoff](https://github.com/18F/path-analysis/approach.md#1-meet-with-cps-for-the-internal-handoff)
-2. [Draft a problem statement](https://github.com/18F/path-analysis/approach.md#2-draft-a-problem-statement)
-3. [Kick off the project](https://github.com/18F/path-analysis/approach.md#3-kick-off-the-project)
-4. [Gather data](https://github.com/18F/path-analysis/approach.md#4-gather-data)
-5. [Communicate your progress](https://github.com/18F/path-analysis/approach.md#5-communicate-your-progress)
-6. [Write the final report](https://github.com/18F/path-analysis/approach.md#6-write-the-final-report)
-7. [Identify further work](https://github.com/18F/path-analysis/approach.md#7-identify-further-work)
-8. [Conduct a postmortem](https://github.com/18F/path-analysis/approach.md#8-conduct-a-postmortem)
+1. [Meet with CPS for the internal handoff](https://github.com/18F/path-analysis/blob/master/approach.md#1-meet-with-cps-for-the-internal-handoff)
+2. [Draft a problem statement](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement)
+3. [Kick off the project](https://github.com/18F/path-analysis/blob/master/approach.md#3-kick-off-the-project)
+4. [Gather data](https://github.com/18F/path-analysis/blob/master/approach.md#4-gather-data)
+5. [Communicate your progress](https://github.com/18F/path-analysis/blob/master/approach.md#5-communicate-your-progress)
+6. [Write the final report](https://github.com/18F/path-analysis/blob/master/approach.md#6-write-the-final-report)
+7. [Identify further work](https://github.com/18F/path-analysis/blob/master/approach.md#7-identify-further-work)
+8. [Conduct a postmortem](https://github.com/18F/path-analysis/blob/master/approach.md#8-conduct-a-postmortem)
 
 
 ## 1. Meet with CPS for the internal handoff
 The account manager for this project has been involved since the very beginning. They likely attended the initial business development meetings and probably helped draft the interagency agreement. The first thing that'll happen is the AM will schedule a meeting with the 18F members of the team to go over what they know about the project and hand off any background documents that you should review prior to the client kickoff meeting. Get familiar with what the client originally contacted us about and how they described their needs and expectations. Understand what we sold them and how that is articulated in the statement of work. 
 
-Once you've had the internal handoff meeting, start thinking about how you want to use the kickoff meeting. Will it be a 90 minute meeting? A day-long working session? Figure out what's going to be the best use of people's time and what you'll need to get started. Some teams have found it useful to do some stakeholder interviews prior to the kickoff meeting and use the time to talk about what they heard. See this [sample interview script](https://github.com/18F/path-analysis/interview-questions.md) to help get you started.
+Once you've had the internal handoff meeting, start thinking about how you want to use the kickoff meeting. Will it be a 90 minute meeting? A day-long working session? Figure out what's going to be the best use of people's time and what you'll need to get started. Some teams have found it useful to do some stakeholder interviews prior to the kickoff meeting and use the time to talk about what they heard. See this [sample interview script](https://github.com/18F/path-analysis/blob/master/sample-interview-questions.md) to help get you started.
 
 It may be happen that you are asked to do work or attend meetings with the client before you have had an internal handoff or kickoff meeting. Please remember to wait until the internal handoff meeting or kickoff meeting, if you're not doing pre-kickoff stakeholder interviews, before starting work on the project.
 
@@ -30,7 +30,7 @@ By the end of the workshop, you should have alignment on a clear, manageably sco
 
 See these sample kickoff agendas for different timeframes to get you started:
 
-- [90-minute agenda](https://github.com/18F/path-analysis/agenda-90-minutes.md)
+- [90-minute agenda](https://github.com/18F/path-analysis/blob/master/sample-agenda/90-minute.md)
 - Half-day agenda
 - Full-day agenda
 - Multi-day agenda
