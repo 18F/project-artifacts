@@ -2,7 +2,7 @@
 
 So you've been assigned to work on a path analysis. Congratulations! These short, eight-week projects are designed to better define a partner's problem, understand the current state, and come up with a path forward. They're different from projects where we're trying to figure out _how_ to build a thing. The purpose of a path analysis is to answer _what's going on_ and _what should the partner do next_.
 
-We've written up specifics on [how to run a path analysis].
+We've written up specifics on [how to run a path analysis](https://github.com/18F/path-analysis/blob/master/approach.md).
 
 Check out the [previous path analysis projects].
 
