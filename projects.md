@@ -10,7 +10,7 @@
 - June 2018
 - Team: Brandon Kirby, Kara Reinsel
 - Complete a current state analysis of elements of the Operations Center’s work and create a strategy and roadmap for how the State Department could move forward to modernize Operations Center processes and technology specifically related to knowledge management and information dissemination, and a high-level strategy for future state interoperability across all Operations Center systems.
-- Deliverables: [final report], [project folder](https://drive.google.com/drive/folders/1LkQE0mlQnXHXq3pvgn_k-CffFhd3X8DK)
+- Deliverables: [final report](https://docs.google.com/document/d/1oHZA5gBfY1l7skHCIkfvAyQK1MCbCH6wCCk7w4RmiH8/edit), [project folder](https://drive.google.com/drive/folders/1LkQE0mlQnXHXq3pvgn_k-CffFhd3X8DK)
 
 ## USDA / FNS SNAP Path Analysis [#782](https://tock.18f.gov/projects/782/)
 - June 2018
