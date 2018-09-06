@@ -6,11 +6,19 @@
 - summary
 - Deliverables: [final report], [project folder]
 
+
+## SSA / DCPS2 Path Analysis [#901](https://tock.18f.gov/projects/901/)
+- date: August 2018
+- Team: David Corwin, Eleni Gesch-Karamanlidis
+- Summary: SSA is seeking to identify the best technical solution for centralizing disability case processing. Determining how an internal disability case processing system (DCPS2) currently stacks up against commercially available alternatives, will help SSA determine whether to continue building or buy.
+
+- Deliverables: [final report](https://docs.google.com/document/d/1iqXwOsYDSC5BOvpHt_xVyqzIZK3QsNq6yskfJw45lCU/edit)[project folder](https://drive.google.com/drive/u/0/folders/1ln7PFz4hhzPbzQRnSbXcn7MS_mEenZQS?ogsrc=32)
+
 ## DOS / Operations Center Path Analysis [#798](https://tock.18f.gov/projects/798/)
 - June 2018
 - Team: Brandon Kirby, Kara Reinsel
 - Complete a current state analysis of elements of the Operations Center’s work and create a strategy and roadmap for how the State Department could move forward to modernize Operations Center processes and technology specifically related to knowledge management and information dissemination, and a high-level strategy for future state interoperability across all Operations Center systems.
-- Deliverables: [final report], [project folder](https://drive.google.com/drive/folders/1LkQE0mlQnXHXq3pvgn_k-CffFhd3X8DK)
+- Deliverables: [final report] (https://docs.google.com/document/d/1iqXwOsYDSC5BOvpHt_xVyqzIZK3QsNq6yskfJw45lCU/edit [project folder](https://drive.google.com/drive/folders/1LkQE0mlQnXHXq3pvgn_k-CffFhd3X8DK)
 
 ## USDA / FNS SNAP Path Analysis [#782](https://tock.18f.gov/projects/782/)
 - June 2018
