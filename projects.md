@@ -26,7 +26,7 @@ _Please note: many project deliverables are links to internal documents, and acc
 - June 2018
 - Team: Nikki Zeichner, Roger Ruiz
 - The Food and Nutrition Service within USDA is working on building a workflow and information management system to streamline SNAP key business processes related to State waiver and policy questions processing. Understanding how to best move forward with the workflow information management system will help FNS support State modernization efforts to provide efficient customer service, targeted benefit delivery to those most in need of food assistance, and application of consistent program requirements that reduce improper payments.
-- Deliverables: final report, [project folder](https://drive.google.com/drive/u/0/folders/15z2JFJG2Ygt8AxyAZaIXxFeZrg8JmaCH)
+- Deliverables: [final report](https://drive.google.com/drive/u/0/folders/1XyQ-wQompkiZBGm93X_UY7xiRmOG7mL7), [final code evaluation](https://drive.google.com/drive/u/0/folders/1XyQ-wQompkiZBGm93X_UY7xiRmOG7mL7), [project folder](https://drive.google.com/drive/u/0/folders/15z2JFJG2Ygt8AxyAZaIXxFeZrg8JmaCH)
 
 ## Department of Defense / US Air Force Recruiting Services Path Analysis [#784](https://tock.18f.gov/projects/784/)
 - June 2018
