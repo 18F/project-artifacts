@@ -14,6 +14,12 @@ _Please note: many project deliverables are links to internal documents, and acc
 - The Marine Corps Deputy Commandant for Installations and Logistics (DC I&L) is looking to improve its logistics operations, plans, policies, concepts, exercising staff supervision over joint and Marine Corps logistics matters, logistics manpower matters, logistics analysis, mobility, lift requirements, sustainability productivity, material readiness, logistics information systems, security assistance, fiscal matters for appropriate division sponsored programs, and coordinating the logistics aspects of prepositioning programs.
 - Deliverables: [final report], [project folder](https://drive.google.com/drive/folders/1q3fxPn2rbe0v2-uhzfxfnVgbIySOqiGB)
 
+## U.S. Navy Naval Air Systems Command (NAVAIR) Path Analysis [#903](https://tock.18f.gov/projects/903/)
+- July-September 2018
+- Team: Andrew Suprenant, TC Baxter, Kathryn Connolly
+- Improve the quality of the data NAVAIR HR collects and manages through better data modeling to inform the use of predictive analytics, allowing the command to better identify past trends and better plan for the future, ultimately strengthening hiring and retention forecasting to better serve Navy and Marine fleets.
+- Deliverables: [final report](https://docs.google.com/document/d/1UGNp-ue8GsFXwZ5VGjNiIkUtvtxttoAi9UdXjKtDOo4/edit#), [final presentation](https://docs.google.com/presentation/d/1MO_lrPBIa0mYc8dfQJrpXy_IYNTRf1RTAAIy3M8YzSY/edit), [project folder](https://drive.google.com/drive/u/0/folders/1Zi8TiYQBV21oXyCYRQf2eXoKE0mXHEqQ)
+
 ## Social Security Administration / Disability Case Processing System (DCPS2) Path Analysis [#901](https://tock.18f.gov/projects/901/)
 - date: August 2018
 - Team: David Corwin, Eleni Gesch-Karamanlidis
