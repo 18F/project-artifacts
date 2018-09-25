@@ -52,14 +52,16 @@ While this is an 8-week project, you'll likely need to restrict the data collect
 
 At the same time, however, there are usually delays in scheduling interviews in the vast majority of projects. So do all you can to encourage your client to help contact potential interviewees as quickly as possible. Then prepare for the case that scheduling still spills over into week 2, for instance, which may push interviews into week 4.
 
+As you gather data, make sure to bring the partner along as you synthesize it into findings and recommendations (blog post: [Getting partners on board with research findings](https://18f.gsa.gov/2018/02/06/getting-partners-on-board-with-research-findings/)).
+
 ## 5. Communicate your progress
 Partners will be a lot more invested in what you recommend if they understand and buy into your findings. What you *don't* want to do is keep the partner in the dark about your findings and recommendations until the final presentation. Don't aim for the Big Reveal. You're not a magician. 
 
-There are two primary ways we do this. The first is the Weekly Ship, a quick report on the status of the project emailed to the client and dropped into #the-shipping-news Slack channel at the end of each week. Here's an example of a [Weekly Ship doc](https://docs.google.com/document/d/1uWNqM_2I3i1-UAysYxXt9C3UN_892sJoeeUV0z6wPhM/edit#heading=h.lg378il4ug92).
+There are a few primary ways we do this:
 
-You should also plan to have a mid-project review with the partner after your research sprint to communicate progress to date, initial observations, and update the project brief as needed. See the blog post about [Getting partners on board with research findings](https://18f.gsa.gov/2018/02/06/getting-partners-on-board-with-research-findings/).
-
-Additionally, some 18F teams include a weekly meeting (in-person when the 18F team is co-located with the client) in their cadance so the client receives two updates each week (the weekly ship and the weekly meeting). When teams include a weekly meeting, the mid-project review tends to be much smaller or just another weekly meeting since the client has been updated all along (especially when weekly meetings are held in-person because the client and 18F team is co-located).
+- **Meet with the partner regularly** (at least weekly) to discuss what you're working on, share insights, and ask questions. Get clear early on about what meeting tools will work for everyone, and use video calls if possible.
+- **Send a "Weekly Ship:"** a quick report emailed to the client at the end of each week. Here's the [Weekly Ship template](https://docs.google.com/document/d/1ulPzFvBLunXm3MD0xL8nPzlJDOoFJbNLPo0Sl6ph99Q/edit), an example of a [Weekly Ship doc](https://docs.google.com/document/d/1uWNqM_2I3i1-UAysYxXt9C3UN_892sJoeeUV0z6wPhM/edit#heading=h.lg378il4ug92), and [the Weekly Ship origin story](https://docs.google.com/document/d/1tdbh_rmIsRgMEBQXh5x6fVAAE4ajUHj8eZ2eFF4acO0/edit#). We also share Weekly Ships in #the-shipping-news Slack channel, so we can see what's happening across projects.
+- **Plan a mid-project review** with the partner after your research sprint to communicate progress, initial observations, and update the project brief as needed. As you create presentations and begin to share ideas, follow [presentation best practices](https://docs.google.com/document/d/1SwWADPsr_rDlHRaga7mFwY-F4vvrU8dfcmL9Sbbd364/edit) to ensure you're being concise and compelling.
 
 ## 6. Write the final report
 Consider starting this at about the mid point of the path analysis. This always takes longer than you'd think; getting started on writing the stuff that doesn't depend on finishing your analysis -- like the problem statement, background, etc. -- can help overcome the inertia of a blank page. 
