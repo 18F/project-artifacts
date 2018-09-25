@@ -33,6 +33,12 @@ _Please note: many project deliverables are links to internal documents, and acc
 - Complete a current state analysis of elements of the Operations Center’s work and create a strategy and roadmap for how the State Department could move forward to modernize Operations Center processes and technology specifically related to knowledge management and information dissemination, and a high-level strategy for future state interoperability across all Operations Center systems.
 - Deliverables: [final report](https://docs.google.com/document/d/1oHZA5gBfY1l7skHCIkfvAyQK1MCbCH6wCCk7w4RmiH8/edit), [project folder](https://drive.google.com/drive/folders/1LkQE0mlQnXHXq3pvgn_k-CffFhd3X8DK)
 
+## DOC / GEMS Path Analysis [#875](https://tock.18f.gov/projects/875/)
+- July-August 2018
+- Team: Mike Gintz, Fureigh, Olesya Minina, Mark Hopson
+- Help the Department of Commerce move successfully towards the build or acquisition of a Commerce-wide grants system that will replace their current system, which is not an effective tool for all of their grant-making bureaus and which has technical flaws that would be impractical to fix. In the process, introduce DOC to agile working methods and help them utilize the GEMS project as a catalyst for building an agile culture. 
+- Deliverables: [final report](https://drive.google.com/open?id=1kooL7aORn5-dkhCu7-SS1IdpWYVr8q86ha2NBY9yQQA), [supporting documents](https://drive.google.com/drive/folders/1cGaWUWfoe2Gdr0PIF1tEvU9SDRXGiYw9), [project folder](https://drive.google.com/drive/folders/1mIUXK5Ki3K3_8yevTjpZlzip27OELn0R)
+
 ## US Department of Agriculture / Food & Nutrition Service (FNS) Supplemental Nutrition Assistance Program (SNAP) Path Analysis [#782](https://tock.18f.gov/projects/782/)
 - June 2018
 - Team: Nikki Zeichner, Roger Ruiz
