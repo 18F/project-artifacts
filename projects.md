@@ -8,6 +8,11 @@ _Please note: many project deliverables are links to internal documents, and acc
 - summary
 - Deliverables: [final report], [project folder]
 
+## U.S. Navy Naval Air Systems Command (NAVAIR) Path Analysis [#903](https://tock.18f.gov/projects/903/)
+- July-September 2018
+- Team: Andrew Suprenant, TC Baxter, Kathryn Connolly
+- Improve the quality of the data NAVAIR HR collects and manages through better data modeling to inform the use of predictive analytics, allowing the command to better identify past trends and better plan for the future, ultimately strengthening hiring and retention forecasting to better serve Navy and Marine fleets.
+- Deliverables: [final report](https://docs.google.com/document/d/1UGNp-ue8GsFXwZ5VGjNiIkUtvtxttoAi9UdXjKtDOo4/edit#), [final presentation](https://docs.google.com/presentation/d/1MO_lrPBIa0mYc8dfQJrpXy_IYNTRf1RTAAIy3M8YzSY/edit), [project folder](https://drive.google.com/drive/u/0/folders/1Zi8TiYQBV21oXyCYRQf2eXoKE0mXHEqQ)
 
 ## Social Security Administration / Disability Case Processing System (DCPS2) Path Analysis [#901](https://tock.18f.gov/projects/901/)
 - date: August 2018
