@@ -57,6 +57,13 @@ _Please note: many project deliverables are links to internal documents, and acc
 - The Cyber Missions Forces have reported difficulty accessing training resources provided by cyber ranges. Timely access to cyber ranges and required training are crucial for ensuring that cyber teams are prepared to respond to increasing cyber threats.
 - Deliverables: [final report](https://docs.google.com/document/d/18SXu6SxUqmOJ07reaavpMI4tnPSNhc1jMu34M9SLuTI/edit?ts=5afb3077#), [project folder](https://drive.google.com/drive/u/0/folders/1LMnwXL3voTPsTlGLOX4VJxrV1QN-S4Ht)
 
+## Department of Defense / Defense Travel Management Office (DTMO) Path Analysis [#915](https://tock.18f.gov/projects/915/)
+- August-September 2018
+- Team: Eddie Tejeda, Cordelia Yu, Kathryn Connolly
+- The Defense Travel Management Office (DTMO) provides travel support and information to Department of Defense (DoD) Service members and civilian staff. We helped develop a strategy for their main website based on key user needs. 
+- Deliverables: [final report](https://docs.google.com/document/d/1AmdPUki2t33t5PZjLZQ4do-YOUloEISAFjQfqOY2tGg/edit#), [project folder](https://drive.google.com/drive/folders/1-BeA3L0JpS45uOVeA673UddOBlXGMznh)
+
+
 ## Federal Acquisition Service (FAS) / Commercial Platforms Foundation Engagement [#758](https://tock.18f.gov/projects/758/)
 - April 2018
 - Team: Michael Cata, Brandon Kirby
