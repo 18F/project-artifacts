@@ -7,4 +7,5 @@ We've written up specifics on [how to run a path analysis](https://github.com/18
 Check out the [previous path analysis projects](https://github.com/18F/path-analysis/blob/master/projects.md).
 
 ## Templates
-- [Path Analysis Report Template](https://docs.google.com/document/d/1DBgwnnHuvR2fAojOwjP8gZ3_jA9pEAGRRKOnmH69d0s/) (make a copy first!)
+- [Path Analysis Report Template 1](https://docs.google.com/document/d/1DBgwnnHuvR2fAojOwjP8gZ3_jA9pEAGRRKOnmH69d0s/) (make a copy first!)
+- [Path Analysis Report Template 2](https://docs.google.com/document/d/1mohw86sAoNrwZ6MnIMlX8420IkFWV2kPkB4a_XwbCm8/) (make a copy first!)
