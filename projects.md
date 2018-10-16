@@ -10,13 +10,24 @@ _Please note: many project deliverables are links to internal documents, and acc
 - summary
 - Deliverables: [final report], [project folder]
 
+------
+
 ## Past projects
 
-- [Cabinet-level agencies](#Cabinet-level-agencies)
-  - [Agriculture (USDA)](#Department-of-Agriculture-USDA)
-  - [Commerce](#Department-of-Commerce-Commerce)
-- [Independent agencies]()
-- [General Services Administration]()
+- [Cabinet-level agencies](#cabinet-level-agencies)
+  + [Department of Agriculture](#department-of-agriculture-usda)
+  + [Department of Commerce](#department-of-commerce-commerce)
+  + [Department of Defense](#department-of-defense-dod)
+  + [Department of Homeland Security](#department-of-homeland-security-dhs)
+  + [Department of the Interior](#department-of-the-interior-doi)
+  + [Department of Justice](#department-of-justice-doj)
+  + [Department of State](#department-of-state-state)
+  + [Department of Veterans Affairs](#veterans-affairs-va)
+- [Independent agencies](#independent-agencies)
+  + [General Services Administration](#general-services-administration-gsa)
+  + [National Science Foundation](#national-science-foundation-nsf)
+  + [National Institutes of Health](#national-institutes-of-health-nih)
+  + [Social Security](#social-security-administration-ssa)
 
 ## Cabinet-level agencies
 
@@ -38,7 +49,7 @@ _Please note: many project deliverables are links to internal documents, and acc
 
 ### Department of Defense (DOD)
 
-### Department of Defense Education Activity (DoDEA) Cyber Training Ranges Foundation Engagement [#778](https://tock.18f.gov/projects/778/)
+#### Department of Defense Education Activity (DoDEA) Cyber Training Ranges Foundation Engagement [#778](https://tock.18f.gov/projects/778/)
 - May 2018
 - Team: David Kane-Perry, Eddie Tejeda
 - The Cyber Missions Forces have reported difficulty accessing training resources provided by cyber ranges. Timely access to cyber ranges and required training are crucial for ensuring that cyber teams are prepared to respond to increasing cyber threats.
@@ -109,14 +120,6 @@ _Please note: many project deliverables are links to internal documents, and acc
 - Team: Nikki Zeichner, Ed Mullen
 - Investigate creating the Data Ingest and Analytics Resource Center (DIARC) to integrate policies, processes, services, and technology into a shared service that is accessible to all litigation components.
 - Deliverables: [readme](https://docs.google.com/document/d/14A4sr626EKFpdObQkn3vfxBOPmSrKu9EnTKoaaLasW0/edit), [final report](https://docs.google.com/document/d/1-8nze2Vu-LiI_tgKZE_YyU98w75yo7zqRO_zT0_LsEc/edit), [project folder](https://drive.google.com/drive/folders/0B2MQdLyPsR4JM18yOXNWRjNaUGs)
-
-### Social Security Administration (SSA)
-
-#### SSA / Disability Case Processing System (DCPS2) Path Analysis [#901](https://tock.18f.gov/projects/901/)
-- date: August 2018
-- Team: David Corwin, Eleni Gesch-Karamanlidis
-- Summary: SSA is seeking to identify the best technical solution for centralizing disability case processing. Determining how an internal disability case processing system (DCPS2) currently stacks up against commercially available alternatives, will help SSA determine whether to continue building or buy.
-- Deliverables: [final report](https://docs.google.com/document/d/1iqXwOsYDSC5BOvpHt_xVyqzIZK3QsNq6yskfJw45lCU/edit), [project folder](https://drive.google.com/drive/u/0/folders/1ln7PFz4hhzPbzQRnSbXcn7MS_mEenZQS?ogsrc=32)
 
 ### Department of State (State)
 
@@ -205,20 +208,32 @@ Veterans use and VA representatives work with. Build a roadmap for integrating I
 - After inheriting BusinessUSA, USAGov wanted to identify opportunities to improve how small businesses interact with the federal government. We set out to better understand how small businesses interact with the federal government, directly or indirectly. We focused on federal grant dollars that are awarded to state or local entities, and which are then issued as contracts with specific small or disadvantaged business requirements.
 - Deliverables: [final report](https://github.com/18F/OPP-BusinessUSA-research/blob/master/small-business-discovery-handout.md), [project repo](https://github.com/18F/OPP-BusinessUSA-research)
 
-### National Science Foundation (NSF) / Site Redesign Foundation Engagement [#515](https://tock.18f.gov/projects/515/)
+### National Science Foundation (NSF)
+
+#### NSF Site Redesign Foundation Engagement [#515](https://tock.18f.gov/projects/515/)
 - May 2017
 - Team: Brandon Kirby, Corey Mahoney 
 - NSF wanted help figuring out the future of NSF.gov: redesigning it to meet user needs, choosing and implementing a new content management system, and moving to the cloud. This foundation engagement aimed to help make this ambitious project successful by identifying risks, blockers, strengths, and opportunities, then recommending a roadmap for how NSF can approach this project to mitigate those risks.
 - Deliverables: [overview](https://docs.google.com/document/d/1cpD9buNqmrbgtXeM8uoYMC98A8Nf2WwXJD59SRIyAFs/edit#), [final report](https://docs.google.com/presentation/d/19pKR5a4aunJZd0lXWcK64h2dGZvcUZP7LlLfLY3A4iE/edit#slide=id.p), [project folder](https://drive.google.com/drive/u/0/folders/0B_FxR36sJSlCRE9vU1NrTzVQSm8) 
 
-### National Institutes of Health (NIH) National Library of Medicine (NLM) / Clinicaltrials.gov Discovery [#514](https://tock.18f.gov/projects/514/)
+### National Institutes of Health (NIH)
+
+#### National Library of Medicine (NLM) / Clinicaltrials.gov Discovery [#514](https://tock.18f.gov/projects/514/)
 - May 2017
 - Team: Angela Colter, Melissa Braxton, Austin Hernandez
 - Provide recommendations on how the National Library of Medicine’s ClinicalTrials.gov could better serve the needs of its users.
 - Deliverables: [final report](https://docs.google.com/document/d/10GxdXC3g9uOW3v8nCQYbs-sMgljhGxu1XQhVj9pL1us/edit), [project folder](https://drive.google.com/drive/u/0/folders/0B5gljoqLY5hqWFlWTmNRbk80Rm8), [project repo](https://github.com/18F/clinical-trials/wiki)
 
-### National Institutes of Health (NIH) / PubMed Foundation Engagement [#754](https://tock.18f.gov/projects/754/)
+#### NIH / PubMed Foundation Engagement [#754](https://tock.18f.gov/projects/754/)
 - March 2018
 - Team: Victor Udoewa, Andrew Maier
 - Conduct user research in order to identify a potential roadmap for user-centered improvements to PubMed.gov and NLM literature offerings in general.
 - Deliverables: [readme](https://docs.google.com/document/d/1W2-SbeepLxEv9LfXjFelDg8u_6CxkMIY7wZZTDDh-wc/edit?ts=5a99b796), [final report](https://docs.google.com/presentation/d/1d7Rjme9tv5sQi9PMDPMv7Cmww4T-R3IuuUMmNm4iGfM/edit#slide=id.g35d13d9c9a_0_1349), [project folder](https://drive.google.com/drive/u/0/folders/1jPGVD44o3LoHlWI1KabzLBJe4SbhafNN)
+
+### Social Security Administration (SSA)
+
+#### SSA / Disability Case Processing System (DCPS2) Path Analysis [#901](https://tock.18f.gov/projects/901/)
+- date: August 2018
+- Team: David Corwin, Eleni Gesch-Karamanlidis
+- Summary: SSA is seeking to identify the best technical solution for centralizing disability case processing. Determining how an internal disability case processing system (DCPS2) currently stacks up against commercially available alternatives, will help SSA determine whether to continue building or buy.
+- Deliverables: [final report](https://docs.google.com/document/d/1iqXwOsYDSC5BOvpHt_xVyqzIZK3QsNq6yskfJw45lCU/edit), [project folder](https://drive.google.com/drive/u/0/folders/1ln7PFz4hhzPbzQRnSbXcn7MS_mEenZQS?ogsrc=32)
