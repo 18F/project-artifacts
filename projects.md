@@ -115,6 +115,14 @@ _Please note: many project deliverables are links to internal documents, and acc
 
 ### Department of Justice (DOJ)
 
+#### DOJ / IT Functions [#923](https://tock.18f.gov/projects/923/)
+- September 2018
+- Team: David Corwin, Aviva Oskow, Jacklynn Pham, Tim Spencer, Nikki Zeichner
+- Investigate whether there are opportunities to increase efficiency, improve customer experience and reduce cost by consolidating select IT functions across three litigating components and the Justice Management Division (JMD). The three litigating components involved are the Civil Rights Division (CRT), Environment and Natural Resources Division (ENRD), and the Tax Division (TAX).
+- Deliverables: [github](https://github.com/18F/doj-it-pa), [team folder](https://drive.google.com/drive/folders/1mSU-qq0-Jghv2i95diA01d2ICSEz_6Rn?ogsrc=32)
+
+
+
 #### DOJ / Digital Transformation FY17 [#474](https://tock.18f.gov/projects/474/)
 - December 2017
 - Team: Nikki Zeichner, Ed Mullen
