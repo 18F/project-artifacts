@@ -71,7 +71,7 @@ _Please note: many project deliverables are links to internal documents, and acc
 - underway
 - Team: Michael Antiporta, Mark Headd, Brandon Kirby, Sarah Eckert, Rad Vrajmohan, Stephanie Rivera
 - The Marine Corps Deputy Commandant for Installations and Logistics (DC I&L) is looking to improve its logistics operations, plans, policies, concepts, exercising staff supervision over joint and Marine Corps logistics matters, logistics manpower matters, logistics analysis, mobility, lift requirements, sustainability productivity, material readiness, logistics information systems, security assistance, fiscal matters for appropriate division sponsored programs, and coordinating the logistics aspects of prepositioning programs.
-- Deliverables: [final report], [project folder](https://drive.google.com/drive/folders/1q3fxPn2rbe0v2-uhzfxfnVgbIySOqiGB)
+- Deliverables: [final report](https://docs.google.com/document/d/1iOOaNU0MXnZsNiW1Nl539g3_wSWceSnc1mVHWcP9_xY/edit?usp=sharing), [project folder](https://drive.google.com/drive/folders/1q3fxPn2rbe0v2-uhzfxfnVgbIySOqiGB)
 
 #### U.S. Navy Naval Air Systems Command (NAVAIR) Path Analysis [#903](https://tock.18f.gov/projects/903/)
 - July-September 2018
