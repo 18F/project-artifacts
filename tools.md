@@ -5,7 +5,7 @@ Here is a quick introduction to the common, and free, communication tools that 1
 
 ## Slack
 
-[Slack](https://slack.com/) is an instant messaging tool that uses themed chat rooms (called channels) to help teams quickly communicate on a daily basis, in an open, collaborative way. The 18F team will create a channel for your project in our Slack workspace, which you can access from your web browser.
+[Slack](https://slack.com/) is an instant messaging tool that uses themed chat rooms (called channels) to help teams quickly communicate on a daily basis, in an open, collaborative way. The 18F team will create a channel for your project in our Slack workspace, which you can access from your web browser. It may be useful to read about [what managers need to know about social tools](https://hbr.org/2017/11/what-managers-need-to-know-about-social-tools) when getting started.
 
 <details>
 <summary> Compliance and records considerations</summary>
