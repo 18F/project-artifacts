@@ -52,6 +52,14 @@ While this is an 8-week project, you'll likely need to restrict the data collect
 
 At the same time, however, there are usually delays in scheduling interviews in the vast majority of projects. So do all you can to encourage your client to help contact potential interviewees as quickly as possible. Then prepare for the case that scheduling still spills over into week 2, for instance, which may push interviews into week 4.
 
+It may be important for your engagement to determine how ready the partner is to undertake a procurement begin to address some of the problems identified. You can deepen the understanding of how ready the partner is using some or all of the following questions as part of your data gathering activities:
+
+* How do they currently buy software? What are their current contract obligations (if any)?
+* Is the acquisition office open to doing things in a new way? (e.g. Publishing RFPs on Github, using smaller projects scopes, requiring open source, engaging new, non-traditional vendors)
+* What are the FAS vehicles (if any) that the partner could potentially use?
+* What barriers might the partner face around procurement? (e.g. are they required to use a certain contracting vehicle? Are there limitations on contracting vehicles based on the type of buy or funding?)
+* What are the procurement office's deadlines? How long does it take to issue a solicitation? How long do solicitations remain open? What is the average time to award a contract?
+
 As you gather data, make sure to bring the partner along as you synthesize it into findings and recommendations (blog post: [Getting partners on board with research findings](https://18f.gsa.gov/2018/02/06/getting-partners-on-board-with-research-findings/)).
 
 ## 5. Communicate your progress
@@ -75,13 +83,13 @@ A couple of tips to consider as you write:
 - **Write for all your potential audiences** - They likely include both technical and non-technical stakeholders.
 - **Tie your recommendations to your findings** - Best practices are great. So are your informed opinions. But findings are what you actually observed. It's a good idea to find out whether the client agrees with your findings before you start working with them on recommendations. If not, is there some context you're missing? Is the way you're articulating the finding not resonating? If you have a finding the client acknowledges but that isn't a priority for them, it's probably better for you to spend your time on recommendations for findings they do care about. 
 - **Make sure your recommendations address your problem statement** - If they don't, either rewrite them so they do or rewrite your problem statement.
-- **If there's more work for 18F, say so** - We want to recommend what we truly believe to be in the client's best interest, not what's in our own self-interest. But if there's further work to be done, and 18F is in a position to do it, we need to connect those dots for the partner by saying so explicitly in the Next Steps section of the report. 
+- **If there's more work for 18F, say so** - We want to recommend what we truly believe to be in the client's best interest, not what's in our own self-interest. But if there's further work to be done, and 18F is in a position to do it, we need to connect those dots for the partner by saying so explicitly in the Next Steps section of the report. If the next steps for the project include a procurement, call this out and talk about potential options for the partner to procurement a digital solution.
 - **Ask for help from the Writing Lab** - The Writing Lab can help you write, organize, and edit final reports and slide decks. They'll meet with you to go over expectations and the type of help you're looking for, and you don't need a full draft in order to get help. [Submit an issue](https://github.com/18F/writing-lab/issues/new) to get started, or ask in the #writing-lab Slack channel.
 
 ## 7. Identify further work
 If you've waited until after delivering the final report to talk about further work, you've waited too long. Although the further work *happens* after the report, you'll want to raise the issue of potential work much earlier in the process.   
 
-Does the partner need to build a prototype to validate assumptions with their end users? Do they need to better understand a particular workflow before moving on? Talk to a user group we didn't cover during the PA? And is 18F in a position to help them? Then start talking about this at the mid-point of the project. Explicitly call these out in Next Steps. 
+Does the partner need to build a prototype to validate assumptions with their end users? Do they need to better understand a particular workflow before moving on? Do they need to undertake a procurement? Talk to a user group we didn't cover during the PA? And is 18F in a position to help them? Then start talking about this at the mid-point of the project. Explicitly call these out in Next Steps. 
 
 Here's a resource for you to understand [what services TTS offers](https://docs.google.com/document/d/1mnckFQsZQfC4WLjvqbYtMM-6DCWqhaCuUSOkpwjtJIY/edit#heading=h.rulyhvfb83pn). 
 
