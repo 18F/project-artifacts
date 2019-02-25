@@ -52,7 +52,7 @@ While this is an 8-week project, you'll likely need to restrict the data collect
 
 At the same time, however, there are usually delays in scheduling interviews in the vast majority of projects. So do all you can to encourage your client to help contact potential interviewees as quickly as possible. Then prepare for the case that scheduling still spills over into week 2, for instance, which may push interviews into week 4.
 
-It may be important for your engagement to determine how ready the partner is to [undertake a procurement](#procurement.md) begin to address some of the problems identified. You can deepen the understanding of how ready the partner is using some or all of the following questions as part of your data gathering activities:
+It may be important for your engagement to determine how ready the partner is to [undertake a procurement](procurement.md) begin to address some of the problems identified. You can deepen the understanding of how ready the partner is using some or all of the following questions as part of your data gathering activities:
 
 * How do they currently buy software? What are their current contract obligations (if any)?
 * Is the procurement office open to doing things in a new way? (e.g. Publishing RFPs on Github, using smaller project scopes, requiring open source, engaging new, non-traditional vendors)
