@@ -4,9 +4,9 @@ Generally speaking, there are two ways that 18F can work with a partner on a pro
 
 ### Acquisition Consulting Engagement
 
-On an Acquisition Consulting engagement, the partner uses a contracting vehicle that they control and have access to at their agency to support the procurement. The contracting lead on the 18F team will work closely with the partner's contracting office to set up the procurement, develop soliciting materials, engage vendors and run through the mechanics of the procurement. 
+On an Acquisition Consulting engagement, the partner uses a contracting vehicle that they control and have access to at their agency to support the procurement. The 18F team, led by the contracting lead, will work closely with the partner's contracting office to set up the procurement, develop soliciting materials, engage vendors and run through the mechanics of the procurement. 
 
-The partner's contracting office takes the lead on these activities, and the contracting lead on the 18F team may pull in other team members at various times to review draft solicitation materials, to help evaluate written responses to the solicitation, to help screen vendors, and for various other purposes. The partner's contracting office will be the primary point of contact for the vendor for things like invoicing, time tracking, personnel changes and other contract questions.
+The partner's contracting office takes the lead on these activities, and the contracting lead on the 18F team will pull in other team members at various times to review draft solicitation materials, to help evaluate written responses to the solicitation, to help screen vendors, and for various other purposes. The partner's contracting office will be the primary point of contact for the vendor for things like invoicing, time tracking, personnel changes and other contract questions.
 
 
 ### Assisted Acquisition 
