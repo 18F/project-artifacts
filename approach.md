@@ -13,7 +13,7 @@ Once the agreement has been signed, you can start billable work on the project. 
 ## 1. Meet with CPS for the internal handoff
 The account manager for this project has been involved since the very beginning. They likely attended the initial business development meetings and probably helped draft the interagency agreement. The first thing that'll happen is the AM will schedule a meeting with the 18F members of the team to go over what they know about the project and hand off any background documents that you should review prior to the client kickoff meeting. Get familiar with what the client originally contacted us about and how they described their needs and expectations. Understand what we sold them and how that is articulated in the statement of work. 
 
-Once you've had the internal handoff meeting, start thinking about how you want to use the kickoff meeting. Will it be a 90 minute meeting? A day-long working session? Figure out what's going to be the best use of people's time and what you'll need to get started. Some teams have found it useful to do some stakeholder interviews prior to the kickoff meeting and use the time to talk about what they heard. See this [sample interview script](https://github.com/18F/path-analysis/blob/master/sample-interview-questions.md) to help get you started.
+Once you've had the internal handoff meeting, start thinking about how you want to use the kickoff meeting. Will it be a 90 minute meeting? A day-long working session? Figure out what's going to be the best use of people's time and what you'll need to get started. Some teams have found it useful to do some stakeholder interviews prior to the kickoff meeting and use the time to talk about what they heard. See this [sample interview script](sample-interview-questions.md) to help get you started.
 
 It may be happen that you are asked to do work or attend meetings with the client before you have had an internal handoff or kickoff meeting. Please remember to wait until the internal handoff meeting or kickoff meeting, if you're not doing pre-kickoff stakeholder interviews, before starting work on the project.
 
@@ -29,7 +29,7 @@ By the end of the workshop, you should have alignment on a clear, manageably sco
 
 See these sample kickoff agendas for different timeframes to get you started:
 
-- [90-minute agenda](https://github.com/18F/path-analysis/blob/master/sample-agenda/90-minute.md)
+- [90-minute agenda](sample-agenda/90-minute.md)
 - Half-day agenda
 - Full-day agenda
 - Multi-day agenda
