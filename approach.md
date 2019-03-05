@@ -1,15 +1,14 @@
 # Path Analysis Approach
 Once the agreement has been signed, you can start billable work on the project. The steps in the project will probably look something like this: 
 
-1. [Meet with CPS for the internal handoff](https://github.com/18F/path-analysis/blob/master/approach.md#1-meet-with-cps-for-the-internal-handoff)
-2. [Draft a problem statement](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement)
-3. [Kick off the project](https://github.com/18F/path-analysis/blob/master/approach.md#3-kick-off-the-project)
-4. [Gather data](https://github.com/18F/path-analysis/blob/master/approach.md#4-gather-data)
-5. [Communicate your progress](https://github.com/18F/path-analysis/blob/master/approach.md#5-communicate-your-progress)
-6. [Write the final report](https://github.com/18F/path-analysis/blob/master/approach.md#6-write-the-final-report)
-7. [Identify further work](https://github.com/18F/path-analysis/blob/master/approach.md#7-identify-further-work)
-8. [Conduct a postmortem](https://github.com/18F/path-analysis/blob/master/approach.md#8-conduct-a-postmortem)
-
+1. [Meet with CPS for the internal handoff](#1-meet-with-cps-for-the-internal-handoff)
+2. [Draft a problem statement](#2-draft-a-problem-statement)
+3. [Kick off the project](#3-kick-off-the-project)
+4. [Gather data](#4-gather-data)
+5. [Communicate your progress](#5-communicate-your-progress)
+6. [Write the final report](#6-write-the-final-report)
+7. [Identify further work](#7-identify-further-work)
+8. [Conduct a postmortem](#8-conduct-a-postmortem)
 
 ## 1. Meet with CPS for the internal handoff
 The account manager for this project has been involved since the very beginning. They likely attended the initial business development meetings and probably helped draft the interagency agreement. The first thing that'll happen is the AM will schedule a meeting with the 18F members of the team to go over what they know about the project and hand off any background documents that you should review prior to the client kickoff meeting. Get familiar with what the client originally contacted us about and how they described their needs and expectations. Understand what we sold them and how that is articulated in the statement of work. 
