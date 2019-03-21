@@ -79,6 +79,12 @@ _Please note: many project deliverables are links to internal documents, and acc
 - Improve the quality of the data NAVAIR HR collects and manages through better data modeling to inform the use of predictive analytics, allowing the command to better identify past trends and better plan for the future, ultimately strengthening hiring and retention forecasting to better serve Navy and Marine fleets.
 - Deliverables: [final report](https://docs.google.com/document/d/1UGNp-ue8GsFXwZ5VGjNiIkUtvtxttoAi9UdXjKtDOo4/edit#), [final presentation](https://docs.google.com/presentation/d/1MO_lrPBIa0mYc8dfQJrpXy_IYNTRf1RTAAIy3M8YzSY/edit), [project folder](https://drive.google.com/drive/u/0/folders/1Zi8TiYQBV21oXyCYRQf2eXoKE0mXHEqQ)
 
+#### National Geospatial-Intelligence Agency (NGA), GEOINT Services Path Analysis [#1059](https://tock.18f.gov/projects/1059/)
+- March 2019
+- Team: Waldo Jaquith, Stephanie Rivera, Mark Hopson, Vicki McFadden
+- Analyze product management and procurement practices and provide recommendations.
+- Deliverables: [final report](https://docs.google.com/document/d/1No7v3Fz7abcWILu4HnAq6OH4hocuHRk3cYusQhSMjyU/edit#)
+
 ### Department of Homeland Security (DHS)
 
 #### DHS / TSA U.S. Air Marshals Foundation Engagement [#597](https://tock.18f.gov/projects/597/)
