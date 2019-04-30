@@ -1,20 +1,19 @@
 # Path Analysis Approach
 Once the agreement has been signed, you can start billable work on the project. The steps in the project will probably look something like this: 
 
-1. [Meet with CPS for the internal handoff](https://github.com/18F/path-analysis/blob/master/approach.md#1-meet-with-cps-for-the-internal-handoff)
-2. [Draft a problem statement](https://github.com/18F/path-analysis/blob/master/approach.md#2-draft-a-problem-statement)
-3. [Kick off the project](https://github.com/18F/path-analysis/blob/master/approach.md#3-kick-off-the-project)
-4. [Gather data](https://github.com/18F/path-analysis/blob/master/approach.md#4-gather-data)
-5. [Communicate your progress](https://github.com/18F/path-analysis/blob/master/approach.md#5-communicate-your-progress)
-6. [Write the final report](https://github.com/18F/path-analysis/blob/master/approach.md#6-write-the-final-report)
-7. [Identify further work](https://github.com/18F/path-analysis/blob/master/approach.md#7-identify-further-work)
-8. [Conduct a postmortem](https://github.com/18F/path-analysis/blob/master/approach.md#8-conduct-a-postmortem)
-
+1. [Meet with CPS for the internal handoff](#1-meet-with-cps-for-the-internal-handoff)
+2. [Draft a problem statement](#2-draft-a-problem-statement)
+3. [Kick off the project](#3-kick-off-the-project)
+4. [Gather data](#4-gather-data)
+5. [Communicate your progress](#5-communicate-your-progress)
+6. [Write the final report](#6-write-the-final-report)
+7. [Identify further work](#7-identify-further-work)
+8. [Conduct a postmortem](#8-conduct-a-postmortem)
 
 ## 1. Meet with CPS for the internal handoff
 The account manager for this project has been involved since the very beginning. They likely attended the initial business development meetings and probably helped draft the interagency agreement. The first thing that'll happen is the AM will schedule a meeting with the 18F members of the team to go over what they know about the project and hand off any background documents that you should review prior to the client kickoff meeting. Get familiar with what the client originally contacted us about and how they described their needs and expectations. Understand what we sold them and how that is articulated in the statement of work. 
 
-Once you've had the internal handoff meeting, start thinking about how you want to use the kickoff meeting. Will it be a 90 minute meeting? A day-long working session? Figure out what's going to be the best use of people's time and what you'll need to get started. Some teams have found it useful to do some stakeholder interviews prior to the kickoff meeting and use the time to talk about what they heard. See this [sample interview script](https://github.com/18F/path-analysis/blob/master/sample-interview-questions.md) to help get you started.
+Once you've had the internal handoff meeting, start thinking about how you want to use the kickoff meeting. Will it be a 90 minute meeting? A day-long working session? Figure out what's going to be the best use of people's time and what you'll need to get started. Some teams have found it useful to do some stakeholder interviews prior to the kickoff meeting and use the time to talk about what they heard. See this [sample interview script](sample-interview-questions.md) to help get you started.
 
 It may be happen that you are asked to do work or attend meetings with the client before you have had an internal handoff or kickoff meeting. Please remember to wait until the internal handoff meeting or kickoff meeting, if you're not doing pre-kickoff stakeholder interviews, before starting work on the project.
 
@@ -30,7 +29,7 @@ By the end of the workshop, you should have alignment on a clear, manageably sco
 
 See these sample kickoff agendas for different timeframes to get you started:
 
-- [90-minute agenda](https://github.com/18F/path-analysis/blob/master/sample-agenda/90-minute.md)
+- [90-minute agenda](sample-agenda/90-minute.md)
 - Half-day agenda
 - Full-day agenda
 - Multi-day agenda
@@ -51,6 +50,14 @@ The approach will vary depending on the project, but may look something like thi
 While this is an 8-week project, you'll likely need to restrict the data collection part of the engagement to two weeks or so. Scheduling participants takes a lot of time. Analyzing interviews takes a lot of time. If you try to do more interviews than you can fit in two weeks, *you'll run out of time and budget very quickly*. Keep in mind that the point of a path analysis is to get a better understanding of the partner's problem. Go broad, not deep. You can (and should!) suggest additional work to delve more deeply into the issues you uncover here. 
 
 At the same time, however, there are usually delays in scheduling interviews in the vast majority of projects. So do all you can to encourage your client to help contact potential interviewees as quickly as possible. Then prepare for the case that scheduling still spills over into week 2, for instance, which may push interviews into week 4.
+
+It may be important as part of your engagement to determine how ready the partner is to [undertake a procurement](https://handbook.18f.gov/acquisition-engagement-types/) to begin to address some of the problems identified. You can deepen the understanding of how ready the partner is by using some or all of the following questions as part of your data gathering activities:
+
+* How do they currently buy software? What are their current contract obligations (if any)?
+* Is the procurement office open to doing things in a new way? (e.g. Publishing RFPs on Github, using smaller project scopes, requiring open source, engaging new, non-traditional vendors)
+* What are the FAS vehicles (if any) that the partner could potentially use?
+* What barriers might the partner face around procurement? (e.g. are they required to use a certain contracting vehicle? Are there limitations on contracting vehicles based on the type of buy or funding?)
+* What are the procurement office's deadlines? How long does it take to issue a solicitation? How long do solicitations remain open? What is the average time to award a contract?
 
 As you gather data, make sure to bring the partner along as you synthesize it into findings and recommendations (blog post: [Getting partners on board with research findings](https://18f.gsa.gov/2018/02/06/getting-partners-on-board-with-research-findings/)).
 
@@ -75,13 +82,13 @@ A couple of tips to consider as you write:
 - **Write for all your potential audiences** - They likely include both technical and non-technical stakeholders.
 - **Tie your recommendations to your findings** - Best practices are great. So are your informed opinions. But findings are what you actually observed. It's a good idea to find out whether the client agrees with your findings before you start working with them on recommendations. If not, is there some context you're missing? Is the way you're articulating the finding not resonating? If you have a finding the client acknowledges but that isn't a priority for them, it's probably better for you to spend your time on recommendations for findings they do care about. 
 - **Make sure your recommendations address your problem statement** - If they don't, either rewrite them so they do or rewrite your problem statement.
-- **If there's more work for 18F, say so** - We want to recommend what we truly believe to be in the client's best interest, not what's in our own self-interest. But if there's further work to be done, and 18F is in a position to do it, we need to connect those dots for the partner by saying so explicitly in the Next Steps section of the report. 
+- **If there's more work for 18F, say so** - We want to recommend what we truly believe to be in the client's best interest, not what's in our own self-interest. But if there's further work to be done, and 18F is in a position to do it, we need to connect those dots for the partner by saying so explicitly in the Next Steps section of the report. If the next steps for the project include a procurement, call this out and talk about potential options for the partner to procure a digital solution.
 - **Ask for help from the Writing Lab** - The Writing Lab can help you write, organize, and edit final reports and slide decks. They'll meet with you to go over expectations and the type of help you're looking for, and you don't need a full draft in order to get help. [Submit an issue](https://github.com/18F/writing-lab/issues/new) to get started, or ask in the #writing-lab Slack channel.
 
 ## 7. Identify further work
 If you've waited until after delivering the final report to talk about further work, you've waited too long. Although the further work *happens* after the report, you'll want to raise the issue of potential work much earlier in the process.   
 
-Does the partner need to build a prototype to validate assumptions with their end users? Do they need to better understand a particular workflow before moving on? Talk to a user group we didn't cover during the PA? And is 18F in a position to help them? Then start talking about this at the mid-point of the project. Explicitly call these out in Next Steps. 
+Does the partner need to build a prototype to validate assumptions with their end users? Do they need to better understand a particular workflow before moving on? Do they need to undertake a procurement? Talk to a user group we didn't cover during the PA? And is 18F in a position to help them? Then start talking about this at the mid-point of the project. Explicitly call these out in Next Steps. 
 
 Here's a resource for you to understand [what services TTS offers](https://docs.google.com/document/d/1mnckFQsZQfC4WLjvqbYtMM-6DCWqhaCuUSOkpwjtJIY/edit#heading=h.rulyhvfb83pn). 
 

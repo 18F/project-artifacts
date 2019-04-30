@@ -20,4 +20,6 @@ Example:
 
 8. **Who should we talk to?** Discuss which stakeholders, subject matter experts, and representative users should be interviewed in order to give the team insight into the current situation. Work out who will send out the request for participation. For stakeholders and subject matter experts, it will likely be the project sponsor that identifies specific people, contacts them directly about the project and communicates why we’d like to talk to them. For end users, the project sponsor can help identify the different user groups and how to recruit them. Decide whether any of this user/stakeholder outreach can happen prior to the kickoff meeting, because participant recruitment *always* takes way longer than you'd expect. Make sure the project sponsor understands how critical these interviews are. Aim for doing interviews during the first two weeks of the engagement.
 
-9. **Do you have any advice for us on how to succeed?** What would we have to do for this project to be a success? Are there things that would substantially increase the chances of failure?
+9. **How does your agency or office currently buy software? Who is responsible for the procurement process? Can we speak with them?**
+
+10. **Do you have any advice for us on how to succeed?** What would we have to do for this project to be a success? Are there things that would substantially increase the chances of failure?
