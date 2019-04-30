@@ -84,7 +84,7 @@ Bundled with Azure, but not within FedRAMP services in scope.
 <details>
 <summary>Compliance and records considerations</summary>
 
-- Mural is hosted on AWS commercial public cloud. Has a GSA ATO, but does not have a FedRAMP authorization or anything in process
+- Mural is hosted on Azure commercial public cloud. Has a GSA ATO, but does not have a FedRAMP authorization or anything in process
 - Generally would not store &quot;records&quot; but be used for transient organization of information for discussion purposes. However GSA records officer has determined that &quot;This product likely creates a number of record types. However, the specific types of records created will depend on the context in which this product is used.&quot; so you should be sure to export and archive Mural&#39;s periodically.
 - Truly low-impact: Mural should not used to store anything confidential or authoritative, and is generally not used as such, but is used for ephemeral organization of information and production visualizations. Non-GSA participants are invited to use the service anonymously.,
 </details>
