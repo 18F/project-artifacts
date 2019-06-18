@@ -49,7 +49,7 @@ _Please note: many project deliverables are links to internal documents, and acc
 
 ### Department of Defense (DOD)
 
-###  Air Force Materiel Command (AFMC) Center Operations Online platform (COOL) Path Analysis [#950](https://tock.18f.gov/projects/950/)
+####  Air Force Materiel Command (AFMC) Center Operations Online platform (COOL) Path Analysis [#950](https://tock.18f.gov/projects/950/)
 - September-November 2018
 - Team: Uchenna Moka-Solana, Julia Lindpainter, Stephanie Rivera
 - COOL is a nearly two-decade old, custom-built application that Air Force Materiel Command (AFMC) uses to manage flight operations and store information related to line scheduling, flights, and individual pilot training. We assessed the current system and delived a high-level roadmap for modernization. In June 2019, we began an E&I project to build the first step of this roadmap on cloud.gov.
