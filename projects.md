@@ -18,6 +18,7 @@ _Please note: many project deliverables are links to internal documents, and acc
   + [Department of Agriculture](#department-of-agriculture-usda)
   + [Department of Commerce](#department-of-commerce-commerce)
   + [Department of Defense](#department-of-defense-dod)
+  + [Department of Health and Human Services](#department-of-health-and-human-services-hhs)  
   + [Department of Homeland Security](#department-of-homeland-security-dhs)
   + [Department of the Interior](#department-of-the-interior-doi)
   + [Department of Justice](#department-of-justice-doj)
@@ -84,6 +85,14 @@ _Please note: many project deliverables are links to internal documents, and acc
 - Team: Waldo Jaquith, Stephanie Rivera, Mark Hopson, Vicki McFadden
 - Analyze product management and procurement practices and provide recommendations.
 - Deliverables: [final report](https://docs.google.com/document/d/1No7v3Fz7abcWILu4HnAq6OH4hocuHRk3cYusQhSMjyU/edit#)
+
+### Department of Health and Human Services (HHS)
+
+#### HHS / Medicare Appeals Path Analysis [#953](https://tock.18f.gov/projects/953/)
+- October-December 2018
+- Team: Tiffany Andrews, Jennifer Damis, Andrew Burnes, Randy Hart,Hannah Kane
+- HHS lacks adequate visibility into, and control over the state of individual Medicare appeals claims and the backlog as a whole due to the fact that multiple agencies are involved throughout the process. 
+- Deliverables: [final presentation](https://docs.google.com/presentation/d/14WqYBsL8M_yf-S3xlu0XYBGUdSoVh-oWEl42-ZwAluY/edit?)
 
 ### Department of Homeland Security (DHS)
 
