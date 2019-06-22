@@ -10,6 +10,8 @@ Once the agreement has been signed, you can start billable work on the project. 
 7. [Identify further work](#7-identify-further-work)
 8. [Conduct a postmortem](#8-conduct-a-postmortem)
 
+You may notice that this document is not very prescriptive: it doesn't tell you what to do each week or how to do it. If you're working on a Path Analysis, it's up to you to design the project to fit your partner's needs. Path Analyses are **incredibly flexible by design**, because we want teams to have the space to adapt quickly to what they learn. This is both a challenge and an opportunity — and if you need help navigating it, reach out to your account manager or lead/supervisor for support thinking through how to approach your project.
+
 ## 1. Meet with CPS for the internal handoff
 The account manager for this project has been involved since the very beginning. They likely attended the initial business development meetings and probably helped draft the interagency agreement. The first thing that'll happen is the AM will schedule a meeting with the 18F members of the team to go over what they know about the project and hand off any background documents that you should review prior to the client kickoff meeting. Get familiar with what the client originally contacted us about and how they described their needs and expectations. Understand what we sold them and how that is articulated in the statement of work. 
 
