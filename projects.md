@@ -123,6 +123,14 @@ _Please note: many project deliverables are links to internal documents, and acc
 - Conduct user research and assess their workload forecasting challenges; make the Workforce Analysis Tool more user friendly.
 - Deliverables: [final report](https://docs.google.com/presentation/d/1mQOFi1P3MzTzIYOJ4iyBjNi-H0OWdi_AkbJs9qMxLXc/edit#slide=id.g24b041f5be_0_233), [project folder](https://drive.google.com/drive/u/0/folders/0B1iVxB_cv5hZR0FkMHRKY1QzVFk)
 
+### Department of Housing and Urban Developmen (HUD)
+
+#### Centers of Excellence + HUD Path Analysis
+- Date:
+- Team: Victor Udoewa, Brian Fox, Eleni Gesch-Karamanlidis, Andrew Dunkman, Ashley Owens
+- 
+- Deliverables: [project folder](https://drive.google.com/drive/u/0/folders/1hEqSZcoLVFgPNz1BNcS-ftKhwyzBeUWZ), 
+
 ### Department of the Interior (DOI)
 
 #### Fish and Wildlife Service (FWS) / Harvest Surveys Foundation Engagement [#587](https://tock.18f.gov/projects/587/)
