@@ -52,7 +52,7 @@ _Please note: many project deliverables are links to internal documents, and acc
 #### Army Research Laboratory Path Analysis
 - March-May 2019
 - Team: Kathryn Connolly, Andrew Dunkman, Eleni Gesch-Karamanlidis
-- Help the ARL efficiently and transparently share open source software within legal requirements, but the current OSS process feels top-heavy to researchers. 
+- Help the ARL make a plan to efficiently and transparently share open source software within legal requirements, that doesn't feels top-heavy to researchers. This will likely move to an E&I.
 - Deliverables: [project folder](https://drive.google.com/drive/u/0/folders/1Zo17ROlhuShs7JO0NbMIA29frsFqEbP2), [final presentation](https://docs.google.com/presentation/d/1Xvy0XHopTqUbRcSxUmf5bQySDQXhYV4d8qQRMeWpOuU/edit#slide=id.g4eb21fd7af_0_178)
 
 ####  Air Force Materiel Command (AFMC) Center Operations Online platform (COOL) Path Analysis [#950](https://tock.18f.gov/projects/950/)
