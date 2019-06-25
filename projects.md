@@ -125,7 +125,7 @@ _Please note: many project deliverables are links to internal documents, and acc
 
 ### Department of Housing and Urban Developmen (HUD)
 
-#### Centers of Excellence + HUD Path Analysis
+#### Centers of Excellence + HUD Phase 1&2 Path Analysis
 - Date:
 - Team: Victor Udoewa, Brian Fox, Eleni Gesch-Karamanlidis, Andrew Dunkman, Ashley Owens
 - 
