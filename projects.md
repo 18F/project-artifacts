@@ -93,11 +93,11 @@ _Please note: many project deliverables are links to internal documents, and acc
 
 ### Department of Homeland Security (DHS)
 
-#### FEMA Office of Chief Information Officer 
+#### FEMA Office of CIO 
 - October-November 2018
 - Team: Lalitha Jonnalagadda, Mike Gintz, Mathew Caughron, Ben Peterson, Mark Hopson
  The initial request was to explore ways to improve cybersecurity performance, but the PA unvieled several obstacles to a  head-on approach and switched focus to cloud migration for the subsequent E&I engagement. 
-- Deliverables: [PA report](https://docs.google.com/presentation/d/192P69ZMAsFwxf6bFmZdzZAR5QVJRmmIcoevjshAcofM/edit#slide=id.g49f50ed019_0_0)[PA project folder](https://drive.google.com/drive/folders/13UvbQNqVHDf4FPmsisn04C4Em-umllqj)
+- Deliverables: [PA report](https://docs.google.com/presentation/d/192P69ZMAsFwxf6bFmZdzZAR5QVJRmmIcoevjshAcofM/edit#slide=id.g49f50ed019_0_0), [PA project folder](https://drive.google.com/drive/folders/13UvbQNqVHDf4FPmsisn04C4Em-umllqj)
 
 #### DHS / TSA U.S. Air Marshals Foundation Engagement [#597](https://tock.18f.gov/projects/597/)
 - October 2017
