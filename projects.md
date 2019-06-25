@@ -52,7 +52,7 @@ _Please note: many project deliverables are links to internal documents, and acc
 ####  Air Force Materiel Command (AFMC) Center Operations Online platform (COOL) Path Analysis [#950](https://tock.18f.gov/projects/950/)
 - September-November 2018
 - Team: Uchenna Moka-Solana, Julia Lindpainter, Stephanie Rivera
-- COOL is a nearly two-decade old, custom-built application that Air Force Materiel Command (AFMC) uses to manage flight operations and store information related to line scheduling, flights, and individual pilot training. We assessed the current system and delived a high-level roadmap for modernization. In June 2019, we began an E&I project to build the first step of this roadmap on cloud.gov.
+- COOL is nearly 20 year old, custom-built application that Air Force Materiel Command (AFMC) uses to manage flight operations and store information related to line scheduling, flights, and individual pilot training. We assessed the current system and delived a high-level roadmap for modernization. In June 2019, we began an E&I project to build the first step of this roadmap on cloud.gov.
 - Deliverables: [final process/practice presentation](https://docs.google.com/presentation/d/17lCbMelZO0in3eTurIRkhUaMqWvf2_9s7pCIclvsExg/edit#slide=id.g453eaf8ac7_1_862), [final roadmap presentation](https://docs.google.com/presentation/d/1Z01NMTCdvJ_MDx9hBZWHi6zMmVrsfU1m227BtneB_UI/edit?usp=sharing), [project folder](https://drive.google.com/drive/folders/1gTYYTFy1P8TNBmKX0sgcGe0q7TAEiGRa)
 
 #### Department of Defense Education Activity (DoDEA) Cyber Training Ranges Foundation Engagement [#778](https://tock.18f.gov/projects/778/)
