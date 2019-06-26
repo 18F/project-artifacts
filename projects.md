@@ -8,7 +8,7 @@ _Please note: many project deliverables are links to internal documents, and acc
 - date
 - Team: 
 - summary
-- Next Step:
+- Next:
 - Deliverables: [final report], [project folder]
 
 ------
@@ -59,7 +59,8 @@ _Please note: many project deliverables are links to internal documents, and acc
 ####  Air Force Materiel Command (AFMC) Center Operations Online platform (COOL) Path Analysis [#950](https://tock.18f.gov/projects/950/)
 - September-November 2018
 - Team: Uchenna Moka-Solana, Julia Lindpainter, Stephanie Rivera
-- COOL is nearly 20 year old, custom-built application that Air Force Materiel Command (AFMC) uses to manage flight operations and store information related to line scheduling, flights, and individual pilot training. We assessed the current system and delived a high-level roadmap for modernization. In June 2019, we began an E&I project to build the first step of this roadmap on cloud.gov.
+- COOL is nearly 20 year old, custom-built application that Air Force Materiel Command (AFMC) uses to manage flight operations and store information related to line scheduling, flights, and individual pilot training. We assessed the current system and delived a high-level roadmap for modernization. 
+- Next: In June 2019, we began an E&I project to build the first step of this roadmap on cloud.gov.
 - Deliverables: [final process/practice presentation](https://docs.google.com/presentation/d/17lCbMelZO0in3eTurIRkhUaMqWvf2_9s7pCIclvsExg/edit#slide=id.g453eaf8ac7_1_862), [final roadmap presentation](https://docs.google.com/presentation/d/1Z01NMTCdvJ_MDx9hBZWHi6zMmVrsfU1m227BtneB_UI/edit?usp=sharing), [project folder](https://drive.google.com/drive/folders/1gTYYTFy1P8TNBmKX0sgcGe0q7TAEiGRa)
 
 #### Department of Defense Education Activity (DoDEA) Cyber Training Ranges Foundation Engagement [#778](https://tock.18f.gov/projects/778/)
@@ -103,7 +104,8 @@ _Please note: many project deliverables are links to internal documents, and acc
 #### FEMA Office of CIO 
 - October-November 2018
 - Team: Lalitha Jonnalagadda, Mike Gintz, Mathew Caughron, Ben Peterson, Mark Hopson
-- The initial request was to explore ways to improve cybersecurity performance, but the PA unvieled several obstacles to a  head-on approach and switched focus to cloud migration for the subsequent E&I engagement. 
+- The initial request was to explore ways to improve cybersecurity performance, but the PA unvieled several obstacles to a  head-on approach and switched focus on strategy for cloud migration.
+- Next: E&I engagement for cloud migration
 - Deliverables: [PA report](https://docs.google.com/presentation/d/192P69ZMAsFwxf6bFmZdzZAR5QVJRmmIcoevjshAcofM/edit#slide=id.g49f50ed019_0_0), [PA project folder](https://drive.google.com/drive/folders/13UvbQNqVHDf4FPmsisn04C4Em-umllqj)
 
 #### DHS / TSA U.S. Air Marshals Foundation Engagement [#597](https://tock.18f.gov/projects/597/)
@@ -131,7 +133,7 @@ _Please note: many project deliverables are links to internal documents, and acc
 - Team: Olesya Minina, Victor Udoewa, Brian Fox, Eleni Gesch-Karamanlidis, Andrew Dunkman, Ashley Owens, Rebecca Refoy-Sidibe, 
 Miatta Myers, Peter Burkholder
 - This was an atypical PA. Initially, CoE asked 18F to help kickoff their new partnership with HUD and lay a strategy for how to best approach positioning five different CoE teams. The team and objectives split multiple times. One sub-team worked to create a plan to modernize the Federal Housing Authority (FHA) Insurance Origination Network of Applications (FIONA) application but encountered blockers. 
-- Next Step: The Acquisition Team is supporting the HUD team through some purchases.
+- Next: The Acquisition Team is supporting the HUD team through some purchases.
 - Deliverables: [project folder](https://drive.google.com/drive/u/0/folders/1hEqSZcoLVFgPNz1BNcS-ftKhwyzBeUWZ) 
 
 ### Department of the Interior (DOI)
