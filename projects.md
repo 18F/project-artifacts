@@ -125,10 +125,10 @@ _Please note: many project deliverables are links to internal documents, and acc
 
 ### Department of Housing and Urban Developmen (HUD)
 
-#### Centers of Excellence + HUD Phase 1&2 Path Analysis
+#### Centers of Excellence (CoE) + HUD Phase 1&2 Path Analysis
 - Date:
 - Team: Victor Udoewa, Brian Fox, Eleni Gesch-Karamanlidis, Andrew Dunkman, Ashley Owens
-- 
+- Helped the CoE kickoff their new partnership with HUD with an 8-week and then a 12-week path analysis. We set strategy and roadmap for the follow-on CoE work, which will include further discovery and acquisitions.
 - Deliverables: [project folder](https://drive.google.com/drive/u/0/folders/1hEqSZcoLVFgPNz1BNcS-ftKhwyzBeUWZ), 
 
 ### Department of the Interior (DOI)
