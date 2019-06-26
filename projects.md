@@ -125,10 +125,16 @@ _Please note: many project deliverables are links to internal documents, and acc
 
 ### Department of Housing and Urban Developmen (HUD)
 
-#### Centers of Excellence (CoE) + HUD Phase 1&2 Path Analysis
-- Date:
+#### Centers of Excellence (CoE) + HUD Phase 2 Path Analysis [#963](https://tock.18f.gov/projects/963)
+- November 2018-March 2019??
+- Team: Olesya Minina, Victor Udoewa, Brian Fox, Eleni Gesch-Karamanlidis, Andrew Dunkman, Ashley Owens 
+- Continuing from Phase 1 findings, the teams used its strategy and acquisitions to help modernize the code base of one of HUD’s most critical business systems and accelerate its migration to the cloud. This system manages the Federal Housing Administration Insurance Origination Network of Applications (FIONA) application, which enables Federal Housing Administration (FHA) to provide insurance to lenders for FHA loans. 
+- Deliverables: [project folder](https://drive.google.com/drive/u/0/folders/1hEqSZcoLVFgPNz1BNcS-ftKhwyzBeUWZ), 
+
+#### Centers of Excellence (CoE) + HUD Phase 1 Path Analysis [#963](https://tock.18f.gov/projects/963)
+- September-November 2018
 - Team: Victor Udoewa, Brian Fox, Eleni Gesch-Karamanlidis, Andrew Dunkman, Ashley Owens
-- Helped the CoE kickoff their new partnership with HUD with an 8-week and then a 12-week path analysis. We set strategy and roadmap for the follow-on CoE work, which will include further discovery and acquisitions.
+- Helped the CoE kickoff their new partnership with HUD and lay a strategy for how to best approach positioning the five different CoE teams--Cloud Adoption, Contact Center, Customer Experience, Data Analytics, Reskilling and Change Management.
 - Deliverables: [project folder](https://drive.google.com/drive/u/0/folders/1hEqSZcoLVFgPNz1BNcS-ftKhwyzBeUWZ), 
 
 ### Department of the Interior (DOI)
