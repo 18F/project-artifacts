@@ -125,17 +125,13 @@ _Please note: many project deliverables are links to internal documents, and acc
 
 ### Department of Housing and Urban Developmen (HUD)
 
-#### Centers of Excellence (CoE) + HUD Phase 2 Path Analysis [#963](https://tock.18f.gov/projects/963)
-- November 2018-March 2019??
-- Team: Olesya Minina, Victor Udoewa, Brian Fox, Eleni Gesch-Karamanlidis, Andrew Dunkman, Ashley Owens 
-- Continuing from Phase 1 findings, the teams used its strategy and acquisitions to help modernize the code base of one of HUD’s most critical business systems and accelerate its migration to the cloud. This system manages the Federal Housing Administration Insurance Origination Network of Applications (FIONA) application, which enables Federal Housing Administration (FHA) to provide insurance to lenders for FHA loans. 
-- Deliverables: [project folder](https://drive.google.com/drive/u/0/folders/1hEqSZcoLVFgPNz1BNcS-ftKhwyzBeUWZ), 
-
-#### Centers of Excellence (CoE) + HUD Phase 1 Path Analysis [#963](https://tock.18f.gov/projects/963)
-- September-November 2018
-- Team: Victor Udoewa, Brian Fox, Eleni Gesch-Karamanlidis, Andrew Dunkman, Ashley Owens
-- Helped the CoE kickoff their new partnership with HUD and lay a strategy for how to best approach positioning the five different CoE teams--Cloud Adoption, Contact Center, Customer Experience, Data Analytics, Reskilling and Change Management.
-- Deliverables: [project folder](https://drive.google.com/drive/u/0/folders/1hEqSZcoLVFgPNz1BNcS-ftKhwyzBeUWZ), 
+#### Centers of Excellence (CoE) + HUD Path Analysis [#967](https://tock.18f.gov/projects/967)
+- September 2018-April 2019
+- Team: Olesya Minina, Victor Udoewa, Brian Fox, Eleni Gesch-Karamanlidis, Andrew Dunkman, Ashley Owens, Rebecca Refoy-Sidibe, 
+Miatta Myers, Peter Burkholder
+- This was an atypical PA. Initially, CoE asked 18F to help kickoff their new partnership with HUD and lay a strategy for how to best approach positioning five different CoE teams. The team and objectives split multiple times. One sub-team worked to create a plan to modernize the Federal Housing Authority (FHA) Insurance Origination Network of Applications (FIONA) application but encountered blockers. 
+- Next Step: Some work was transitioned to the Acquisition Team.
+- Deliverables: [project folder](https://drive.google.com/drive/u/0/folders/1hEqSZcoLVFgPNz1BNcS-ftKhwyzBeUWZ) 
 
 ### Department of the Interior (DOI)
 
@@ -158,8 +154,6 @@ _Please note: many project deliverables are links to internal documents, and acc
 - Team: David Corwin, Aviva Oskow, Jacklynn Pham, Tim Spencer, Nikki Zeichner
 - Investigate whether there are opportunities to increase efficiency, improve customer experience and reduce cost by consolidating select IT functions across three litigating components and the Justice Management Division (JMD). The three litigating components involved are the Civil Rights Division (CRT), Environment and Natural Resources Division (ENRD), and the Tax Division (TAX).
 - Deliverables: [github](https://github.com/18F/doj-it-pa), [team folder](https://drive.google.com/drive/folders/1mSU-qq0-Jghv2i95diA01d2ICSEz_6Rn?ogsrc=32)
-
-
 
 #### DOJ / Digital Transformation FY17 [#474](https://tock.18f.gov/projects/474/)
 - December 2017
@@ -263,6 +257,13 @@ Veterans use and VA representatives work with. Build a roadmap for integrating I
 - Deliverables: [overview](https://docs.google.com/document/d/1cpD9buNqmrbgtXeM8uoYMC98A8Nf2WwXJD59SRIyAFs/edit#), [final report](https://docs.google.com/presentation/d/19pKR5a4aunJZd0lXWcK64h2dGZvcUZP7LlLfLY3A4iE/edit#slide=id.p), [project folder](https://drive.google.com/drive/u/0/folders/0B_FxR36sJSlCRE9vU1NrTzVQSm8) 
 
 ### National Institutes of Health (NIH)
+
+#### National Center for Advancing Translational Sciences (NCATS) Path Analysis 
+- February-April 2019
+- Team: Kathryn Connolly, Jessie Posilkin, Aditi Rao
+- NCATS is charged with transforming the translational process so that new treatments and cures for disease can be delivered to patients faster. They developed several web apps--most visibly pharos.nih.gov and pharos-beta.ncats.io--that lacked UI/UX consideration upfront and the 18F team helped established a strategy to redesign and deliver a uniform experience for users. 
+- Next: This project rolled into a E&I 
+- Deliverables: [project folder](https://drive.google.com/drive/u/0/folders/1OMBlJjqFRkHuV_zmhGO3ztZZUGNYWTxb)
 
 #### National Library of Medicine (NLM) / Clinicaltrials.gov Discovery [#514](https://tock.18f.gov/projects/514/)
 - May 2017
