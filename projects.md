@@ -8,6 +8,7 @@ _Please note: many project deliverables are links to internal documents, and acc
 - date
 - Team: 
 - summary
+- Next Step:
 - Deliverables: [final report], [project folder]
 
 ------
@@ -130,7 +131,7 @@ _Please note: many project deliverables are links to internal documents, and acc
 - Team: Olesya Minina, Victor Udoewa, Brian Fox, Eleni Gesch-Karamanlidis, Andrew Dunkman, Ashley Owens, Rebecca Refoy-Sidibe, 
 Miatta Myers, Peter Burkholder
 - This was an atypical PA. Initially, CoE asked 18F to help kickoff their new partnership with HUD and lay a strategy for how to best approach positioning five different CoE teams. The team and objectives split multiple times. One sub-team worked to create a plan to modernize the Federal Housing Authority (FHA) Insurance Origination Network of Applications (FIONA) application but encountered blockers. 
-- Next Step: Some work was transitioned to the Acquisition Team.
+- Next Step: The Acquisition Team is supporting the HUD team through some purchases.
 - Deliverables: [project folder](https://drive.google.com/drive/u/0/folders/1hEqSZcoLVFgPNz1BNcS-ftKhwyzBeUWZ) 
 
 ### Department of the Interior (DOI)
@@ -258,18 +259,12 @@ Veterans use and VA representatives work with. Build a roadmap for integrating I
 
 ### National Institutes of Health (NIH)
 
-#### National Center for Advancing Translational Sciences (NCATS) Path Analysis 
+#### National Center for Advancing Translational Sciences (NCATS) Path Analysis [#1056](https://tock.18f.gov/projects/1056/)
 - February-April 2019
 - Team: Kathryn Connolly, Jessie Posilkin, Aditi Rao
-- NCATS is charged with transforming the translational process so that new treatments and cures for disease can be delivered to patients faster. They developed several web apps--most visibly pharos.nih.gov and pharos-beta.ncats.io--that lacked UI/UX consideration upfront and the 18F team helped established a strategy to redesign and deliver a uniform experience for users. 
+- Identify ways the NCATS team can improve the user experience of their public applications, using Pharos as a pilot product. 
 - Next: This project rolled into a E&I 
-- Deliverables: [project folder](https://drive.google.com/drive/u/0/folders/1OMBlJjqFRkHuV_zmhGO3ztZZUGNYWTxb)
-
-#### National Library of Medicine (NLM) / Clinicaltrials.gov Discovery [#514](https://tock.18f.gov/projects/514/)
-- May 2017
-- Team: Angela Colter, Melissa Braxton, Austin Hernandez
-- Provide recommendations on how the National Library of Medicine’s ClinicalTrials.gov could better serve the needs of its users.
-- Deliverables: [final report](https://docs.google.com/document/d/10GxdXC3g9uOW3v8nCQYbs-sMgljhGxu1XQhVj9pL1us/edit), [project folder](https://drive.google.com/drive/u/0/folders/0B5gljoqLY5hqWFlWTmNRbk80Rm8), [project repo](https://github.com/18F/clinical-trials/wiki)
+- Deliverables: [readme](https://docs.google.com/document/d/17AA-RYGlJUcL8wXZq16B7rZ88PzaHFa1DLh__ku81GA/edit?ts=5c596adc), [final report](https://docs.google.com/presentation/d/1HW4IfZTMdYmd2VpWG8_Bmcfc7UrBitT2Byrb9pDYHbM/edit#slide=id.p), [project folder](https://drive.google.com/drive/folders/1KGA7Yjbhgs3QpzfLaeogBu7vK0mQxZa9)
 
 #### NIH / PubMed Foundation Engagement [#754](https://tock.18f.gov/projects/754/)
 - March 2018
@@ -277,16 +272,16 @@ Veterans use and VA representatives work with. Build a roadmap for integrating I
 - Conduct user research in order to identify a potential roadmap for user-centered improvements to PubMed.gov and NLM literature offerings in general.
 - Deliverables: [readme](https://docs.google.com/document/d/1W2-SbeepLxEv9LfXjFelDg8u_6CxkMIY7wZZTDDh-wc/edit?ts=5a99b796), [final report](https://docs.google.com/presentation/d/1d7Rjme9tv5sQi9PMDPMv7Cmww4T-R3IuuUMmNm4iGfM/edit#slide=id.g35d13d9c9a_0_1349), [project folder](https://drive.google.com/drive/u/0/folders/1jPGVD44o3LoHlWI1KabzLBJe4SbhafNN)
 
-#### NIH/ NCATS Path Analysis [#1056](https://tock.18f.gov/projects/1056/)
-- February 2019
-- Team: Jessie Posilkin, Aditi Rao
-- Review the application development model at Pharos and provide guidance for user-centered design.
-- Deliverables: [readme](https://docs.google.com/document/d/17AA-RYGlJUcL8wXZq16B7rZ88PzaHFa1DLh__ku81GA/edit?ts=5c596adc), [final report](https://docs.google.com/presentation/d/1HW4IfZTMdYmd2VpWG8_Bmcfc7UrBitT2Byrb9pDYHbM/edit#slide=id.p), [project folder](https://drive.google.com/drive/folders/1KGA7Yjbhgs3QpzfLaeogBu7vK0mQxZa9)
+#### National Library of Medicine (NLM) / Clinicaltrials.gov Discovery [#514](https://tock.18f.gov/projects/514/)
+- May 2017
+- Team: Angela Colter, Melissa Braxton, Austin Hernandez
+- Provide recommendations on how the National Library of Medicine’s ClinicalTrials.gov could better serve the needs of its users.
+- Deliverables: [final report](https://docs.google.com/document/d/10GxdXC3g9uOW3v8nCQYbs-sMgljhGxu1XQhVj9pL1us/edit), [project folder](https://drive.google.com/drive/u/0/folders/0B5gljoqLY5hqWFlWTmNRbk80Rm8), [project repo](https://github.com/18F/clinical-trials/wiki)
 
 ### Social Security Administration (SSA)
 
 #### SSA / Disability Case Processing System (DCPS2) Path Analysis [#901](https://tock.18f.gov/projects/901/)
-- date: August 2018
+- August 2018
 - Team: David Corwin, Eleni Gesch-Karamanlidis
-- Summary: SSA is seeking to identify the best technical solution for centralizing disability case processing. Determining how an internal disability case processing system (DCPS2) currently stacks up against commercially available alternatives, will help SSA determine whether to continue building or buy.
+- SSA is seeking to identify the best technical solution for centralizing disability case processing. Determining how an internal disability case processing system (DCPS2) currently stacks up against commercially available alternatives, will help SSA determine whether to continue building or buy.
 - Deliverables: [final report](https://docs.google.com/document/d/1iqXwOsYDSC5BOvpHt_xVyqzIZK3QsNq6yskfJw45lCU/edit), [project folder](https://drive.google.com/drive/u/0/folders/1ln7PFz4hhzPbzQRnSbXcn7MS_mEenZQS?ogsrc=32)
