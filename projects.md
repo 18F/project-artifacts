@@ -27,9 +27,9 @@ _Please note: many project deliverables are links to internal documents, and acc
 - [Independent agencies](#independent-agencies)
   + [General Services Administration](#general-services-administration-gsa)
   + [National Science Foundation](#national-science-foundation-nsf)
-  + [National Institutes of Health](#national-institutes-of-health-)
+  + [National Institutes of Health](#national-institutes-of-health-nih)
   + [Social Security](#social-security-administration-ssa)
-  + [Environmental Protection Agency](#environmental-protection-agency)
+  + [Environmental Protection Agency](#environmental-protection-agency-epa)
 
 ## Cabinet-level agencies
 
