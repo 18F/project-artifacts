@@ -114,6 +114,12 @@ _Please note: many project deliverables are links to internal documents, and acc
 - Conduct user research and assess their workload forecasting challenges; make the Workforce Analysis Tool more user friendly.
 - Deliverables: [final report](https://docs.google.com/presentation/d/1mQOFi1P3MzTzIYOJ4iyBjNi-H0OWdi_AkbJs9qMxLXc/edit#slide=id.g24b041f5be_0_233), [project folder](https://drive.google.com/drive/u/0/folders/0B1iVxB_cv5hZR0FkMHRKY1QzVFk)
 
+#### FEMA OCIO Modernization - [#951](https://tock.18f.gov/projects/951/)
+- September - December, 2018
+- Team: Mat Caughron, Mike Gintz, Mark Hopson, Lalitha Jonnalagadda, Ben Peterson
+- FEMA is responsible for coordinating responses to a disaster that has occurred in the United States that overwhelms the resources of state and local authorities. To better fulfill that mission, FEMA has created a strategic plan that provides a framework for supporting the United States before, during and after disasters. Part of the strategic plan is for the FEMA OCIO to create a program roadmap for modernizing FEMA’s cybersecurity program and producing an analysis that would determine the acquisition requirements for the FEMA IT Risk Management Program. As a result, FEMA intends to procure a solution through FAS in order to more effectively plan and modernize their cybersecurity and IT Risk Management program, with the ultimate aim of delivering a federally compliant Risk Management program.
+- Deliverables: [Final Presentation](https://docs.google.com/presentation/d/192P69ZMAsFwxf6bFmZdzZAR5QVJRmmIcoevjshAcofM/edit), [Project Folder](https://drive.google.com/drive/folders/13UvbQNqVHDf4FPmsisn04C4Em-umllqj)
+
 ### Department of the Interior (DOI)
 
 #### Fish and Wildlife Service (FWS) / Harvest Surveys Foundation Engagement [#587](https://tock.18f.gov/projects/587/)
