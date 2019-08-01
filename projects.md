@@ -27,8 +27,9 @@ _Please note: many project deliverables are links to internal documents, and acc
 - [Independent agencies](#independent-agencies)
   + [General Services Administration](#general-services-administration-gsa)
   + [National Science Foundation](#national-science-foundation-nsf)
-  + [National Institutes of Health](#national-institutes-of-health-)
+  + [National Institutes of Health](#national-institutes-of-health-nih)
   + [Social Security](#social-security-administration-ssa)
+  + [Environmental Protection Agency](#environmental-protection-agency-epa)
 
 ## Cabinet-level agencies
 
@@ -68,6 +69,18 @@ _Please note: many project deliverables are links to internal documents, and acc
 - Assess the current state of the Air Force Recruiting Information Support System-Total Force (AFRISS-TF) and develop a high-level vision for a more modular and mobile-friendly system.
 - Deliverables: [final report](https://docs.google.com/document/d/1W7sAvftbq7mKltg_et_hfEDpZSAs74kwqyzS4-INrzI/edit), [final presentation](https://docs.google.com/presentation/d/11EGm1abVPiR2HAYAu7FHmMw6_ya20bq-FWDepQTBBaQ/edit), [project folder](https://drive.google.com/drive/u/0/folders/15_hzcako6YoYnSl_0apZHuLhLVpLTLkS)
 
+#### U.S. Air Force Kessel Run Enterprise Path Analysis - [#973](https://tock.18f.gov/projects/973/)
+- March - June, 2019
+- Team: Brian Fox, Abbey Kos, Ryan Hofschneider, Michael Cata, Mark Hopson, Miatta Myers, Stephanie Rivera
+- The US Air Force (USAF) is embarking on an ambitious initiative to transform the way it builds and delivers software for its military operations. It has created an organization to focus specifically on this transformation, called Kessel Run, and is rapidly growing its efforts here to deliver value in a user-centered agile fashion. Outside of the agile workshops, this is the first of at least 3 PAs with the Kessel Run team. The main focuses will be: Operating and scaling the multi-region cloud infrastructure platform (based on Cloud Foundry), Paving the path to production for applications, Migrating applications at scale, and Product and project management.
+- Deliverables: [final report](https://docs.google.com/presentation/d/1Mz1PV9iF_8Qi9zBVCw5lSA5usq6seGSWv3Uxv6ctDOY/edit), [project folder](https://drive.google.com/drive/u/0/folders/0AKfEVr3wzXS5Uk9PVA)
+
+#### U.S. Air Force / Center-Ops Online (COOL) PA [#950](https://tock.18f.gov/projects/950/)
+- September-November 2018
+- Team: Stephanie Rivera, Mark Headd, Uchenna Moka-Solana, Julia Lindpaintner
+- COOL is a custom built application initially developed for a particular office at the Air Force. With the increased platform use, there is a need to make improvements to ensure scalability across the Air Force. In preparation for evolving COOL, AFMC requires a better understanding of the current state of the system, its supporting processes, and user needs, in order to develop a vision for an improved flight operations management system.
+- Deliverables: [project folder](https://drive.google.com/drive/folders/1alIU3h0Ayrv2kZ2f7nQYTIrXA7tWVhRw), [final presentation](https://drive.google.com/drive/folders/1bUsCU9WNxpf5hhXllV8s2pQi21_7PBOU)
+
 #### U.S. Marine Corps (USMC) - Logistics and Planning PAs [#940](https://tock.18f.gov/projects/940/)
 - underway
 - Team: Michael Antiporta, Mark Headd, Sarah Eckert, Ryan Aheard, Torey Vanek
@@ -85,6 +98,12 @@ _Please note: many project deliverables are links to internal documents, and acc
 - Team: Waldo Jaquith, Stephanie Rivera, Mark Hopson, Vicki McFadden
 - Analyze product management and procurement practices and provide recommendations.
 - Deliverables: [final report](https://docs.google.com/document/d/1No7v3Fz7abcWILu4HnAq6OH4hocuHRk3cYusQhSMjyU/edit#)
+
+#### U.S. Army Research Lab Path Analysis [#1076](https://tock.18f.gov/projects/1076/)
+- April - May, 2019
+- Team: Andrew Dunkman, Kathryn Connolly, Eleni Gesch-Karamanlidis
+- US Army is looking for help in establishing a better process for releasing software as Open Source across the Army Research Laboratory (ARL). ARL is hoping to re-engineer the current process in way that satisfies legal and regulatory policies while not being too much of a burden to follow for users and stakeholders. In addition to the process itself, ARL is interested in the identification of some tools and technology that could best support the new process.
+- Deliverables: [final report](https://docs.google.com/document/d/1tceAboGCsFFMy-Xp6XyDgnVJvNwoWtJaRr1ZIxC3gTQ/edit), [project folder](https://drive.google.com/drive/u/0/folders/1SRYo9DZ1JzZxlWjimuFk5PV-tvUN6e0p)
 
 ### Department of Health and Human Services (HHS)
 
@@ -136,13 +155,17 @@ _Please note: many project deliverables are links to internal documents, and acc
 
 ### Department of Justice (DOJ)
 
+#### DOJ / Civil Rights Division PA/E&I [#1051](https://tock.18f.gov/projects/1051/)
+- December, 2018 - February, 2019
+- Team: Olesya Minna, Uchenna Moka-Solana, Nikki Zeichner, Jacklynn Pham, Aviva Oskow, Rebecca Refoy-Sidibe
+- The Civil Rights Division works to uphold the civil and constitutional rights of all Americans and enforces federal statutes prohibiting discrimination on the basis of race, color, sex, disability, religion, familial status, and national origin. Currently, when citizens believe a civil rights violation has taken place, they can submit a complaint to the Civil Rights Division in a variety of ways including phone, email or website. The current process and accompanying website for filing complaints is not intuitive or user friendly and causes confusion for the citizen. It also leads to time-consuming, manual effort by the internal DOJ staff that need to take action quickly on the claims. On the citizen side, there is no unified or clear method for finding information and submitting claims to DOJ. On the DOJ intake side, there are many manual, disparate processes for routing and addressing the claims, making the review and decision process labor-intensive and inefficient. 
+- Deliverables: [final report](https://drive.google.com/drive/u/0/folders/1B0Okn6pGyatD4M5QqKHiNGXPvKK4YLdA), [project folder](https://drive.google.com/drive/u/0/folders/1iWlPK3lQBAP6fXIaP6Th6WYsEgCyor1L)
+
 #### DOJ / IT Functions [#923](https://tock.18f.gov/projects/923/)
 - September 2018
 - Team: David Corwin, Aviva Oskow, Jacklynn Pham, Tim Spencer, Nikki Zeichner
 - Investigate whether there are opportunities to increase efficiency, improve customer experience and reduce cost by consolidating select IT functions across three litigating components and the Justice Management Division (JMD). The three litigating components involved are the Civil Rights Division (CRT), Environment and Natural Resources Division (ENRD), and the Tax Division (TAX).
 - Deliverables: [github](https://github.com/18F/doj-it-pa), [team folder](https://drive.google.com/drive/folders/1mSU-qq0-Jghv2i95diA01d2ICSEz_6Rn?ogsrc=32)
-
-
 
 #### DOJ / Digital Transformation FY17 [#474](https://tock.18f.gov/projects/474/)
 - December 2017
@@ -237,6 +260,12 @@ Veterans use and VA representatives work with. Build a roadmap for integrating I
 - After inheriting BusinessUSA, USAGov wanted to identify opportunities to improve how small businesses interact with the federal government. We set out to better understand how small businesses interact with the federal government, directly or indirectly. We focused on federal grant dollars that are awarded to state or local entities, and which are then issued as contracts with specific small or disadvantaged business requirements.
 - Deliverables: [final report](https://github.com/18F/OPP-BusinessUSA-research/blob/master/small-business-discovery-handout.md), [project repo](https://github.com/18F/OPP-BusinessUSA-research)
 
+#### 18F / OSC Web Presence PA [#948](https://tock.18f.gov/projects/948/)
+- August - November, 2018
+- Team: Ron Bronson, Jeffrey Durland, Austin Hernandez, Corey Mahoney, Olesya Minina, Eleni  Gesch-Karamanlidis
+- OSC is responsible for providing enterprise web governance, developing agency strategy standards, policies, procedures, and guidelines applicable to web content and the presentation of that content. OSC also facilitates implementation of agency decisions concerning online content and its presentation to the public and monitors the overall branding and content integrity of GSA’s digital presence. GSA’s various websites hold a variety of content that spans federal regulations, acquisitions, public building services, e-commerce systems, and other various GSA products and services. Currently, users have difficulty navigating disparate GSA websites and finding and understanding information, which makes it challenging for GSA to serve different customers and users efficiently. In addition, OSC would like to update and modernize GSA’s overall web presence to provide for a more comprehensive and unifying experience for GSA’s many different users.
+- Deliverables: [final report](https://docs.google.com/document/d/1wEoAvw3l7lpKPO4C1okH73ki76qvYJA7PrRYVvF4FcQ/edit), [project folder](https://drive.google.com/drive/u/0/folders/1FDgdHRZCTT0JVEfck21Z65ZSW-IEckBP)
+
 ### National Science Foundation (NSF)
 
 #### NSF Site Redesign Foundation Engagement [#515](https://tock.18f.gov/projects/515/)
@@ -272,3 +301,14 @@ Veterans use and VA representatives work with. Build a roadmap for integrating I
 - Team: David Corwin, Eleni Gesch-Karamanlidis
 - Summary: SSA is seeking to identify the best technical solution for centralizing disability case processing. Determining how an internal disability case processing system (DCPS2) currently stacks up against commercially available alternatives, will help SSA determine whether to continue building or buy.
 - Deliverables: [final report](https://docs.google.com/document/d/1iqXwOsYDSC5BOvpHt_xVyqzIZK3QsNq6yskfJw45lCU/edit), [project folder](https://drive.google.com/drive/u/0/folders/1ln7PFz4hhzPbzQRnSbXcn7MS_mEenZQS?ogsrc=32)
+
+### Environmental Protection Agency (EPA)
+
+#### EPA / Emissions [#1062](https://tock.18f.gov/projects/1062/)
+- April - June, 2019
+- Team: Nikki Zeichner, Kathryn Connolly, Andrew Suprenant, Lalitha Jonnalagadda, Ryan Hofschneider
+- The EPA’s Clean Air Markets Division (CAMD) runs regulatory programs that protect
+human health and the environment by reducing air pollution from power plants. A major
+part of its responsibilities is to gather data related to power plant emissions and to make them available to a variety of different users. To do this, it maintains multiple systems to manage input and output of data. These systems run on outdated technologies and have poor integration with each other. The vendors that manage them seem unable to help
+CAMD transition toward human centered design practices and cloud hosting for its applications.
+- Deliverables: [final report](https://drive.google.com/drive/u/0/folders/1w06ldQsOH96K4snc47qMWEVYjxQcPjh9), [team folder](https://drive.google.com/drive/u/0/folders/1MEH_kNBQiZGGiqt7e59rZZS2KNcDFJGQ)
