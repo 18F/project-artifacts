@@ -1,16 +1,36 @@
 # Path Analysis Approach
-Once the agreement has been signed, you can start billable work on the project. The steps in the project will probably look something like this: 
+
+## Overview
+
+Path Analyses are **incredibly flexible by design**, because we want teams to have the space to adapt quickly to what they learn. If you're working on a Path Analysis, it's up to you to design the project to fit your partner's needs. This is both a challenge and an opportunity — and if you need help navigating it, reach out to your account manager or lead/supervisor for support thinking through how to approach your project.
+
+## Initiation
+
+ - `PAs are initiated with an internal handoff `
 
 1. [Meet with CPS for the internal handoff](#1-meet-with-cps-for-the-internal-handoff)
-2. [Draft a problem statement](#2-draft-a-problem-statement)
+
+## Client Milestones and Deliverables
+
+ - `PAs are bookended by two on-site meetings with the partners and project team - the kick-off and the final presentation and/or delivery of the report.`
+ - ``
+ - `Whether you write a report is up to the team, sometimes PAs final deliverables is presentation or workshop - up to the team based on what they think best use of time and what is most useful to the partner`
 3. [Kick off the project](#3-kick-off-the-project)
-4. [Gather data](#4-gather-data)
-5. [Communicate your progress](#5-communicate-your-progress)
 6. [Write the final report](#6-write-the-final-report)
+
+## Relationship Development
+ - `A primary goal of PAs is creating a good working relationship with the partner`
+ - `Sets up platform for continuing work in E&I if work continues, or ending on good terms leaving open possibility of future work.`
+ - `This is a set of guidelines and practical considerations for relationship development`
+
+5. [Communicate your progress](#5-communicate-your-progress)
+
+## Research
+
+2. [Draft a problem statement](#2-draft-a-problem-statement)
+4. [Gather data](#4-gather-data)
 7. [Identify further work](#7-identify-further-work)
 8. [Conduct a postmortem](#8-conduct-a-postmortem)
-
-You may notice that this document is not very prescriptive: it doesn't tell you what to do each week or how to do it. If you're working on a Path Analysis, it's up to you to design the project to fit your partner's needs. Path Analyses are **incredibly flexible by design**, because we want teams to have the space to adapt quickly to what they learn. This is both a challenge and an opportunity — and if you need help navigating it, reach out to your account manager or lead/supervisor for support thinking through how to approach your project.
 
 ## 1. Meet with CPS for the internal handoff
 The account manager for this project has been involved since the very beginning. They likely attended the initial business development meetings and probably helped draft the interagency agreement. The first thing that'll happen is the AM will schedule a meeting with the 18F members of the team to go over what they know about the project and hand off any background documents that you should review prior to the client kickoff meeting. Get familiar with what the client originally contacted us about and how they described their needs and expectations. Understand what we sold them and how that is articulated in the statement of work. 
