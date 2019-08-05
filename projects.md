@@ -8,6 +8,7 @@ _Please note: many project deliverables are links to internal documents, and acc
 - date
 - Team: 
 - summary
+- Next:
 - Deliverables: [final report], [project folder]
 
 ------
@@ -44,12 +45,31 @@ _Please note: many project deliverables are links to internal documents, and acc
 ### Department of Commerce (Commerce)
 
 #### Commerce / GEMS Path Analysis [#875](https://tock.18f.gov/projects/875/)
-- July-August 2018
+- July 2018
 - Team: Mike Gintz, Fureigh, Olesya Minina, Mark Hopson
 - Help the Department of Commerce move successfully towards the build or acquisition of a Commerce-wide grants system that will replace their current system, which is not an effective tool for all of their grant-making bureaus and which has technical flaws that would be impractical to fix. In the process, introduce DOC to agile working methods and help them utilize the GEMS project as a catalyst for building an agile culture. 
 - Deliverables: [final report](https://drive.google.com/open?id=1kooL7aORn5-dkhCu7-SS1IdpWYVr8q86ha2NBY9yQQA), [supporting documents](https://drive.google.com/drive/folders/1cGaWUWfoe2Gdr0PIF1tEvU9SDRXGiYw9), [project folder](https://drive.google.com/drive/folders/1mIUXK5Ki3K3_8yevTjpZlzip27OELn0R)
 
 ### Department of Defense (DOD)
+
+#### Army Research Laboratory Path Analysis
+- March 2019
+- Team: Kathryn Connolly, Andrew Dunkman, Eleni Gesch-Karamanlidis
+- Help the ARL make a plan to efficiently and transparently share open source software within legal requirements, that doesn't feels top-heavy to researchers. This will likely move to an E&I.
+- Deliverables: [project folder](https://drive.google.com/drive/u/0/folders/1Zo17ROlhuShs7JO0NbMIA29frsFqEbP2), [final presentation](https://docs.google.com/presentation/d/1Xvy0XHopTqUbRcSxUmf5bQySDQXhYV4d8qQRMeWpOuU/edit#slide=id.g4eb21fd7af_0_178)
+
+#### National Geospatial-Intelligence Agency (NGA), GEOINT Services Path Analysis [#1059](https://tock.18f.gov/projects/1059/)
+- March 2019
+- Team: Waldo Jaquith, Stephanie Rivera, Mark Hopson, Vicki McFadden
+- Analyze product management and procurement practices and provide recommendations.
+- Deliverables: [final report](https://docs.google.com/document/d/1No7v3Fz7abcWILu4HnAq6OH4hocuHRk3cYusQhSMjyU/edit#)
+
+####  Air Force Materiel Command (AFMC) Center Operations Online platform (COOL) Path Analysis [#950](https://tock.18f.gov/projects/950/)
+- September 2018
+- Team: Uchenna Moka-Solana, Julia Lindpainter, Stephanie Rivera
+- COOL is nearly 20 year old, custom-built application that Air Force Materiel Command (AFMC) uses to manage flight operations and store information related to line scheduling, flights, and individual pilot training. We assessed the current system and delived a high-level roadmap for modernization. 
+- Next: In June 2019, we began an E&I project to build the first step of this roadmap on cloud.gov.
+- Deliverables: [final process/practice presentation](https://docs.google.com/presentation/d/17lCbMelZO0in3eTurIRkhUaMqWvf2_9s7pCIclvsExg/edit#slide=id.g453eaf8ac7_1_862), [final roadmap presentation](https://docs.google.com/presentation/d/1Z01NMTCdvJ_MDx9hBZWHi6zMmVrsfU1m227BtneB_UI/edit?usp=sharing), [project folder](https://drive.google.com/drive/folders/1gTYYTFy1P8TNBmKX0sgcGe0q7TAEiGRa)
 
 #### Department of Defense Education Activity (DoDEA) Cyber Training Ranges Foundation Engagement [#778](https://tock.18f.gov/projects/778/)
 - May 2018
@@ -115,6 +135,13 @@ _Please note: many project deliverables are links to internal documents, and acc
 
 ### Department of Homeland Security (DHS)
 
+#### FEMA Office of CIO 
+- October 2018
+- Team: Lalitha Jonnalagadda, Mike Gintz, Mathew Caughron, Ben Peterson, Mark Hopson
+- The initial request was to explore ways to improve cybersecurity performance, but the PA unvieled several obstacles to a  head-on approach and switched focus on strategy for cloud migration.
+- Next: E&I engagement for cloud migration
+- Deliverables: [PA report](https://docs.google.com/presentation/d/192P69ZMAsFwxf6bFmZdzZAR5QVJRmmIcoevjshAcofM/edit#slide=id.g49f50ed019_0_0), [PA project folder](https://drive.google.com/drive/folders/13UvbQNqVHDf4FPmsisn04C4Em-umllqj)
+
 #### DHS / TSA U.S. Air Marshals Foundation Engagement [#597](https://tock.18f.gov/projects/597/)
 - October 2017
 - Team: Melissa Braxton, Jacob Harris
@@ -138,6 +165,16 @@ _Please note: many project deliverables are links to internal documents, and acc
 - Team: Mat Caughron, Mike Gintz, Mark Hopson, Lalitha Jonnalagadda, Ben Peterson
 - FEMA is responsible for coordinating responses to a disaster that has occurred in the United States that overwhelms the resources of state and local authorities. To better fulfill that mission, FEMA has created a strategic plan that provides a framework for supporting the United States before, during and after disasters. Part of the strategic plan is for the FEMA OCIO to create a program roadmap for modernizing FEMA’s cybersecurity program and producing an analysis that would determine the acquisition requirements for the FEMA IT Risk Management Program. As a result, FEMA intends to procure a solution through FAS in order to more effectively plan and modernize their cybersecurity and IT Risk Management program, with the ultimate aim of delivering a federally compliant Risk Management program.
 - Deliverables: [Final Presentation](https://docs.google.com/presentation/d/192P69ZMAsFwxf6bFmZdzZAR5QVJRmmIcoevjshAcofM/edit), [Project Folder](https://drive.google.com/drive/folders/13UvbQNqVHDf4FPmsisn04C4Em-umllqj)
+
+### Department of Housing and Urban Development (HUD)
+
+#### Centers of Excellence (CoE) + HUD Path Analysis [#967](https://tock.18f.gov/projects/967)
+- September 2018
+- Team: Olesya Minina, Victor Udoewa, Brian Fox, Eleni Gesch-Karamanlidis, Andrew Dunkman, Ashley Owens, Rebecca Refoy-Sidibe, 
+Miatta Myers, Peter Burkholder
+- This was an atypical PA. Initially, CoE asked 18F to help kickoff their new partnership with HUD and lay a strategy for how to best approach positioning five different CoE teams. The team and objectives split multiple times. One sub-team worked to create a plan to modernize the Federal Housing Authority (FHA) Insurance Origination Network of Applications (FIONA) application but encountered blockers. 
+- Next: The Acquisition Team is supporting the HUD team through some purchases.
+- Deliverables: [project folder](https://drive.google.com/drive/u/0/folders/1hEqSZcoLVFgPNz1BNcS-ftKhwyzBeUWZ) 
 
 ### Department of the Interior (DOI)
 
@@ -200,12 +237,6 @@ Veterans use and VA representatives work with. Build a roadmap for integrating I
 
 ### General Services Administration (GSA)
 
-#### OCIO / GAMS Foundation Engagement [#588](https://tock.18f.gov/projects/588/)
-- September 2017
-- Team: Nikki Zeichner, Amos Stone
-- Examine GAMS as a test bed for researching the current access management systems in place; research various modern authentication methods currently used in the commercial sector.
-- Deliverables: [final report](https://docs.google.com/document/d/1pP0LNUzoi_ZESMW2HRR-si0pzVn8kPDduIWI1wxUj1o/edit#heading=h.n9x70772ub7u), [project folder](https://drive.google.com/drive/u/0/folders/0B6M8a_9TXx6HcjZqdDVERk5xeFk)
-
 #### Federal Acquisition Service (FAS) / Commercial Platforms Foundation Engagement [#758](https://tock.18f.gov/projects/758/)
 - April 2018
 - Team: Michael Cata, Brandon Kirby
@@ -217,24 +248,6 @@ Veterans use and VA representatives work with. Build a roadmap for integrating I
 - Team: Porta Antiporta, Jon Carmack
 - Analyze the current state of IAE’s systems, review past documentation, and create a strategy and roadmap around how OSM should move forward with the migration of IAE’s system into a new environment.
 - Deliverables: [final report](https://docs.google.com/document/d/1QPmBna_RAyINxJGvmB8tWzCVX0mxBHQfEWEaA3hUxYA/edit), [final presentation](https://docs.google.com/presentation/d/1R8CuF6mGUoorgM25vOZQCUywjV9050DlTdvbwmVRtRA/edit#slide=id.p), [project folder](https://drive.google.com/drive/u/0/folders/1GkffL55wW4uTFXTB6Gf0W0MTV45Vy0j5)
-
-#### Federal Acquisition Service (FAS) / SWID Tag Repository Discovery [#562](https://tock.18f.gov/projects/562/)
-- September 2017
-- Team: Nikki Zeichner, Melissa Braxton
-- Investigate the best way to build or acquire a repository for tracking government software licenses and their identification tags.
-- Deliverables: [final report](https://docs.google.com/document/d/12mefUAsK5PZ0BvKIqrY3hDhym6xeKrRqMd2dgxA7T90/edit#heading=h.3tid87unl71h), [presentation](https://docs.google.com/presentation/d/1llthw2my1PgOQNguwwQvSLiazabnF1yvbecpa5c6RH0/edit#slide=id.g1f6a537e68_0_455), [project folder](https://drive.google.com/drive/u/0/folders/0B6M8a_9TXx6HODNsckdDYkJRYWM)
-
-#### Federal Acquisition Service (FAS) ITC / Memo Compliance & Value Application Foundation Engagement [#517](https://tock.18f.gov/projects/517/)
-- April 2017
-- Team: Cyd Harrell, Michael Cata 
-- How can GSA help client agencies painlessly integrate IT guidance from OMB, and would this compliance guidance act as a compelling value-add service for GSA customers? While OMB guidance is confusing, this wasn't a burning user need. What they and their COs really wish is that GSA would make it easier to find vendors who can meet their specific requirements.
-- Deliverables: [final report](https://docs.google.com/document/d/1kigDq4JX_JVbAHaxaeDH-YtsgmbdRrvdB5fOtGeSfxk/edit), [project folder](https://drive.google.com/drive/u/0/folders/0B1iVxB_cv5hZTG9UNGVaTENEQVE)
-
-#### Office of Products and Programs (OPP) / Social Security Number (SSN) Foundation Engagement [#493](https://tock.18f.gov/projects/493/)
-- January 2017
-- Team: Cyd Harrell, Ric Miller 
-- Assess the current environment of privacy-protecting citizen identifiers and demo the existing proof of concept of the Program Unique Identifier Initiative developed by OPM. Stopped the project after three weeks because there was no existing proof of concept and the partner wasn't ready to work with us.
-- Deliverables: [final report](https://docs.google.com/document/d/1Cts4OmwY8kEIMvgWF3bhR4hTBZgwczufptKEBz450D4/edit), [project folder](https://drive.google.com/drive/u/0/folders/0B15x0N-o0ueNTENxTlBPYllWcGc)
 
 #### Office of Products and Programs / Performance.gov Foundation Engagement [#663](https://tock.18f.gov/projects/663/)
 - November 2017
@@ -248,6 +261,18 @@ Veterans use and VA representatives work with. Build a roadmap for integrating I
 - Assist OPP with market and user research, roadmap a vision for which roles TTS could effectively take on to help agencies with their content delivery needs.
 - Deliverables: [final report](https://docs.google.com/document/d/1v0IaGPTh981ZsBYOTCdo2CVy0IxJnzWO7-3HS2RMGDI/edit#), [project folder](https://drive.google.com/drive/u/0/folders/0B_SvrGV09nQ-V2NxSFhjUGs5LWs)
 
+#### OCIO / GAMS Foundation Engagement [#588](https://tock.18f.gov/projects/588/)
+- September 2017
+- Team: Nikki Zeichner, Amos Stone
+- Examine GAMS as a test bed for researching the current access management systems in place; research various modern authentication methods currently used in the commercial sector.
+- Deliverables: [final report](https://docs.google.com/document/d/1pP0LNUzoi_ZESMW2HRR-si0pzVn8kPDduIWI1wxUj1o/edit#heading=h.n9x70772ub7u), [project folder](https://drive.google.com/drive/u/0/folders/0B6M8a_9TXx6HcjZqdDVERk5xeFk)
+
+#### Federal Acquisition Service (FAS) / SWID Tag Repository Discovery [#562](https://tock.18f.gov/projects/562/)
+- September 2017
+- Team: Nikki Zeichner, Melissa Braxton
+- Investigate the best way to build or acquire a repository for tracking government software licenses and their identification tags.
+- Deliverables: [final report](https://docs.google.com/document/d/12mefUAsK5PZ0BvKIqrY3hDhym6xeKrRqMd2dgxA7T90/edit#heading=h.3tid87unl71h), [presentation](https://docs.google.com/presentation/d/1llthw2my1PgOQNguwwQvSLiazabnF1yvbecpa5c6RH0/edit#slide=id.g1f6a537e68_0_455), [project folder](https://drive.google.com/drive/u/0/folders/0B6M8a_9TXx6HODNsckdDYkJRYWM)
+
 #### Office of Products and Programs (OPP) / USA.gov Consolidated Permit System Foundation Engagement [#536](https://tock.18f.gov/projects/536/)
 - June 2017
 - Team: Michael Cata, Nick Brethauer
@@ -259,6 +284,18 @@ Veterans use and VA representatives work with. Build a roadmap for integrating I
 - Team: Ric Miller, Carolyn Dew
 - After inheriting BusinessUSA, USAGov wanted to identify opportunities to improve how small businesses interact with the federal government. We set out to better understand how small businesses interact with the federal government, directly or indirectly. We focused on federal grant dollars that are awarded to state or local entities, and which are then issued as contracts with specific small or disadvantaged business requirements.
 - Deliverables: [final report](https://github.com/18F/OPP-BusinessUSA-research/blob/master/small-business-discovery-handout.md), [project repo](https://github.com/18F/OPP-BusinessUSA-research)
+
+#### Federal Acquisition Service (FAS) ITC / Memo Compliance & Value Application Foundation Engagement [#517](https://tock.18f.gov/projects/517/)
+- April 2017
+- Team: Cyd Harrell, Michael Cata 
+- How can GSA help client agencies painlessly integrate IT guidance from OMB, and would this compliance guidance act as a compelling value-add service for GSA customers? While OMB guidance is confusing, this wasn't a burning user need. What they and their COs really wish is that GSA would make it easier to find vendors who can meet their specific requirements.
+- Deliverables: [final report](https://docs.google.com/document/d/1kigDq4JX_JVbAHaxaeDH-YtsgmbdRrvdB5fOtGeSfxk/edit), [project folder](https://drive.google.com/drive/u/0/folders/0B1iVxB_cv5hZTG9UNGVaTENEQVE)
+
+#### Office of Products and Programs (OPP) / Social Security Number (SSN) Foundation Engagement [#493](https://tock.18f.gov/projects/493/)
+- January 2017
+- Team: Cyd Harrell, Ric Miller 
+- Assess the current environment of privacy-protecting citizen identifiers and demo the existing proof of concept of the Program Unique Identifier Initiative developed by OPM. Stopped the project after three weeks because there was no existing proof of concept and the partner wasn't ready to work with us.
+- Deliverables: [final report](https://docs.google.com/document/d/1Cts4OmwY8kEIMvgWF3bhR4hTBZgwczufptKEBz450D4/edit), [project folder](https://drive.google.com/drive/u/0/folders/0B15x0N-o0ueNTENxTlBPYllWcGc)
 
 #### 18F / OSC Web Presence PA [#948](https://tock.18f.gov/projects/948/)
 - August - November, 2018
@@ -276,11 +313,12 @@ Veterans use and VA representatives work with. Build a roadmap for integrating I
 
 ### National Institutes of Health (NIH)
 
-#### National Library of Medicine (NLM) / Clinicaltrials.gov Discovery [#514](https://tock.18f.gov/projects/514/)
-- May 2017
-- Team: Angela Colter, Melissa Braxton, Austin Hernandez
-- Provide recommendations on how the National Library of Medicine’s ClinicalTrials.gov could better serve the needs of its users.
-- Deliverables: [final report](https://docs.google.com/document/d/10GxdXC3g9uOW3v8nCQYbs-sMgljhGxu1XQhVj9pL1us/edit), [project folder](https://drive.google.com/drive/u/0/folders/0B5gljoqLY5hqWFlWTmNRbk80Rm8), [project repo](https://github.com/18F/clinical-trials/wiki)
+#### National Center for Advancing Translational Sciences (NCATS) Path Analysis [#1056](https://tock.18f.gov/projects/1056/)
+- February-April 2019
+- Team: Kathryn Connolly, Jessie Posilkin, Aditi Rao
+- Identify ways the NCATS team can improve the user experience of their public applications, using Pharos as a pilot product. 
+- Next: This project rolled into a E&I 
+- Deliverables: [readme](https://docs.google.com/document/d/17AA-RYGlJUcL8wXZq16B7rZ88PzaHFa1DLh__ku81GA/edit?ts=5c596adc), [final report](https://docs.google.com/presentation/d/1HW4IfZTMdYmd2VpWG8_Bmcfc7UrBitT2Byrb9pDYHbM/edit#slide=id.p), [project folder](https://drive.google.com/drive/folders/1KGA7Yjbhgs3QpzfLaeogBu7vK0mQxZa9)
 
 #### NIH / PubMed Foundation Engagement [#754](https://tock.18f.gov/projects/754/)
 - March 2018
@@ -288,18 +326,18 @@ Veterans use and VA representatives work with. Build a roadmap for integrating I
 - Conduct user research in order to identify a potential roadmap for user-centered improvements to PubMed.gov and NLM literature offerings in general.
 - Deliverables: [readme](https://docs.google.com/document/d/1W2-SbeepLxEv9LfXjFelDg8u_6CxkMIY7wZZTDDh-wc/edit?ts=5a99b796), [final report](https://docs.google.com/presentation/d/1d7Rjme9tv5sQi9PMDPMv7Cmww4T-R3IuuUMmNm4iGfM/edit#slide=id.g35d13d9c9a_0_1349), [project folder](https://drive.google.com/drive/u/0/folders/1jPGVD44o3LoHlWI1KabzLBJe4SbhafNN)
 
-#### NIH/ NCATS Path Analysis [#1056](https://tock.18f.gov/projects/1056/)
-- February 2019
-- Team: Jessie Posilkin, Aditi Rao
-- Review the application development model at Pharos and provide guidance for user-centered design.
-- Deliverables: [readme](https://docs.google.com/document/d/17AA-RYGlJUcL8wXZq16B7rZ88PzaHFa1DLh__ku81GA/edit?ts=5c596adc), [final report](https://docs.google.com/presentation/d/1HW4IfZTMdYmd2VpWG8_Bmcfc7UrBitT2Byrb9pDYHbM/edit#slide=id.p), [project folder](https://drive.google.com/drive/folders/1KGA7Yjbhgs3QpzfLaeogBu7vK0mQxZa9)
+#### National Library of Medicine (NLM) / Clinicaltrials.gov Discovery [#514](https://tock.18f.gov/projects/514/)
+- May 2017
+- Team: Angela Colter, Melissa Braxton, Austin Hernandez
+- Provide recommendations on how the National Library of Medicine’s ClinicalTrials.gov could better serve the needs of its users.
+- Deliverables: [final report](https://docs.google.com/document/d/10GxdXC3g9uOW3v8nCQYbs-sMgljhGxu1XQhVj9pL1us/edit), [project folder](https://drive.google.com/drive/u/0/folders/0B5gljoqLY5hqWFlWTmNRbk80Rm8), [project repo](https://github.com/18F/clinical-trials/wiki)
 
 ### Social Security Administration (SSA)
 
 #### SSA / Disability Case Processing System (DCPS2) Path Analysis [#901](https://tock.18f.gov/projects/901/)
-- date: August 2018
+- August 2018
 - Team: David Corwin, Eleni Gesch-Karamanlidis
-- Summary: SSA is seeking to identify the best technical solution for centralizing disability case processing. Determining how an internal disability case processing system (DCPS2) currently stacks up against commercially available alternatives, will help SSA determine whether to continue building or buy.
+- SSA is seeking to identify the best technical solution for centralizing disability case processing. Determining how an internal disability case processing system (DCPS2) currently stacks up against commercially available alternatives, will help SSA determine whether to continue building or buy.
 - Deliverables: [final report](https://docs.google.com/document/d/1iqXwOsYDSC5BOvpHt_xVyqzIZK3QsNq6yskfJw45lCU/edit), [project folder](https://drive.google.com/drive/u/0/folders/1ln7PFz4hhzPbzQRnSbXcn7MS_mEenZQS?ogsrc=32)
 
 ### Environmental Protection Agency (EPA)
