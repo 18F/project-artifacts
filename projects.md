@@ -5,10 +5,10 @@ _Please note: many project deliverables are links to internal documents, and acc
 ## Template
 
 ### Name of project [tock code]
-- date
+- Date
 - Team: 
 - summary
-- Next:
+- Theme:
 - Deliverables: [final report], [project folder]
 
 ------
