@@ -8,7 +8,7 @@ Example:
 
 2. **What is the primary business objective driving this project?** How will that objective be measured?
 
-3. **How how are things currently working?** How would customers describe things? What would your managers say? Are there areas that clearly need improvement? What would be the main characteristics of an improved process?
+3. **How are things currently working?** How would customers describe things? What would your managers say? Are there areas that clearly need improvement? What would be the main characteristics of an improved process?
 
 4. **Are there issues or constraints we should know about?** Have any significant issues or difficulties arisen, such as conflict, a policy decision required or a technical difficulty? Are there any constraints we need to take into account such as deadlines, regulations, security, audit, control, and resources? Have any important decisions already been made?
 
