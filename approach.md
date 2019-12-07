@@ -1,7 +1,7 @@
 # Path Analysis Approach
 Once the agreement has been signed, you can start billable work on the project. The steps in the project will probably look something like this: 
 
-1. [Meet with CPS for the internal handoff](#1-meet-with-cps-for-the-internal-handoff)
+1. [Meet with Account Management for the internal handoff](#1-meet-with-account-management-for-the-internal-handoff)
 2. [Draft a problem statement](#2-draft-a-problem-statement)
 3. [Kick off the project](#3-kick-off-the-project)
 4. [Gather data](#4-gather-data)
@@ -12,17 +12,17 @@ Once the agreement has been signed, you can start billable work on the project. 
 
 You may notice that this document is not very prescriptive: it doesn't tell you what to do each week or how to do it. If you're working on a Path Analysis, it's up to you to design the project to fit your partner's needs. Path Analyses are **incredibly flexible by design**, because we want teams to have the space to adapt quickly to what they learn. This is both a challenge and an opportunity — and if you need help navigating it, reach out to your account manager or lead/supervisor for support thinking through how to approach your project.
 
-## 1. Meet with CPS for the internal handoff
-The account manager for this project has been involved since the very beginning. They likely attended the initial business development meetings and probably helped draft the interagency agreement. The first thing that'll happen is the AM will schedule a meeting with the 18F members of the team to go over what they know about the project and hand off any background documents that you should review prior to the client kickoff meeting. Get familiar with what the client originally contacted us about and how they described their needs and expectations. Understand what we sold them and how that is articulated in the statement of work. 
+## 1. Meet with Account Management for the internal handoff
+The account manager (AM) for this project has been involved since the very beginning. They likely attended the initial business development meetings and probably helped draft the interagency agreement (IAA). The first thing that'll happen is the AM will schedule a meeting with the 18F members of the team to go over what they know about the project and hand off any background documents that you should review prior to the partner kickoff meeting. Get familiar with what the partner originally contacted us about and how they described their needs and expectations. Understand what we sold them and how that is articulated in the statement of work. 
 
 Once you've had the internal handoff meeting, start thinking about how you want to use the kickoff meeting. Will it be a 90 minute meeting? A day-long working session? Figure out what's going to be the best use of people's time and what you'll need to get started. Some teams have found it useful to do some stakeholder interviews prior to the kickoff meeting and use the time to talk about what they heard. See this [sample interview script](sample-interview-questions.md) to help get you started.
 
-It may be happen that you are asked to do work or attend meetings with the client before you have had an internal handoff or kickoff meeting. Please remember to wait until the internal handoff meeting or kickoff meeting, if you're not doing pre-kickoff stakeholder interviews, before starting work on the project.
+It may be happen that you are asked to do work or attend meetings with the partner before you have had an internal handoff or kickoff meeting. Please remember to wait until the internal handoff meeting or kickoff meeting, if you're not doing pre-kickoff stakeholder interviews, before starting work on the project.
 
 ## 2. Draft a problem statement
-The problem statement should be a short, 2-3 sentence description of what problem the client is trying to solve. You should be able to apply the 5 "W"s (Who, What, Where, When and Why) to the problem statement. It should not suggest a solution. If you need some help creating one, see Dan Brown's article on [How to Build a Problem Statement](https://medium.com/eightshapes-llc/how-to-build-a-problem-statement-d1f21713720b) or this [TTS Problem Statement document](https://docs.google.com/document/d/1GjzpUHQZGWG8lEzg8ZAMqRG3tZhaw_V010OUnt9yKeI/edit#) with different types of problem statements with examples.
+The problem statement should be a short, 2-3 sentence description of what problem the partner is trying to solve. You should be able to apply the 5 "W"s (Who, What, Where, When and Why) to the problem statement. It should not suggest a solution. If you need some help creating one, see Dan Brown's article on [How to Build a Problem Statement](https://medium.com/eightshapes-llc/how-to-build-a-problem-statement-d1f21713720b) or this [TTS Problem Statement document](https://docs.google.com/document/d/1GjzpUHQZGWG8lEzg8ZAMqRG3tZhaw_V010OUnt9yKeI/edit#) with different types of problem statements with examples.
 
-The problem statement may need to be modified over the course of the project as you learn more, but having it prior to the first meeting with the client will help make your understanding explicit and will reveal discrepancies between your understanding and the client’s. 
+The problem statement may need to be modified over the course of the project as you learn more, but having it prior to the first meeting with the partner will help make your understanding explicit and will reveal discrepancies between your understanding and the partner's. 
 
 ## 3. Kick off the project 
 The main purpose of the project kickoff is to make sure everyone involved is aligned on the goals of the project and on what will be delivered at the end of the engagement. Regardless of how long they're scheduled to run, you'll probably feel like there's not enough time to get to everything. Spend as little time as possible, if any, explaining how 18F works so you can focus on getting what you need to start the project such as agreeing to a reasonable scope of the path analysis and identifying stakeholders and user groups to interview. You will likely be able to conduct some of these interviews at the workshop itself by talking to relevant stakeholders and users (if you are on-site with the client.) Set expectations beforehand and make sure that the right people are available, and that you set aside some time to conduct these interviews. 
@@ -36,7 +36,7 @@ See these sample kickoff agendas for different timeframes to get you started:
 - Full-day agenda
 - Multi-day agenda
 
-Also it may be helpful to articulate the deliverables as goals or objectives rather than pieces of work or solution. That gives you more space to discover what might be the best path forward for the client.
+Also it may be helpful to articulate the deliverables as goals or objectives rather than pieces of work or solution. That gives you more space to discover what might be the best path forward for the partner.
 
 ## 4. Gather data
 The approach will vary depending on the project, but may look something like this: 
@@ -49,9 +49,11 @@ The approach will vary depending on the project, but may look something like thi
 - Week 6 -- Present final report/presentation
 - Week 7 -- Incorporate partner feedback into the final report, run a project post-mortem
 
-While this is an 8-week project, you'll likely need to restrict the data collection part of the engagement to two weeks or so. Scheduling participants takes a lot of time. Analyzing interviews takes a lot of time. If you try to do more interviews than you can fit in two weeks, *you'll run out of time and budget very quickly*. Keep in mind that the point of a path analysis is to get a better understanding of the partner's problem. Go broad, not deep. You can (and should!) suggest additional work to delve more deeply into the issues you uncover here. 
+Remember, you can start the report/presentation at any time or alter this schedule as needed to fit the shape of your engagement. Most projets will have both a slide deck and a paper, consider the slide deck the movie trailer, and the paper the script.  
 
-At the same time, however, there are usually delays in scheduling interviews in the vast majority of projects. So do all you can to encourage your client to help contact potential interviewees as quickly as possible. Then prepare for the case that scheduling still spills over into week 2, for instance, which may push interviews into week 4.
+While this is an 8 week project, you'll likely need to restrict the data collection part of the engagement to two weeks or so. Scheduling participants takes a lot of time. Analyzing interviews takes a lot of time. If you try to do more interviews than you can fit in two weeks, *you'll run out of time and budget very quickly*. Keep in mind that the point of a path analysis is to get a better understanding of the partner's problem. Go broad, not deep. You can (and should!) suggest additional work to delve more deeply into the issues you uncover here. It is not recommended to interview more than 12 folks.
+
+At the same time, however, there are usually delays in scheduling interviews in the vast majority of projects. So do all you can to encourage your partner to help contact potential interviewees as quickly as possible. Then prepare for the case that scheduling still spills over into week 2, for instance, which may push interviews into week 4.
 
 It may be important as part of your engagement to determine how ready the partner is to [undertake a procurement](https://handbook.18f.gov/acquisition-engagement-types/) to begin to address some of the problems identified. You can deepen the understanding of how ready the partner is by using some or all of the following questions as part of your data gathering activities:
 
@@ -68,23 +70,23 @@ Partners will be a lot more invested in what you recommend if they understand an
 
 There are a few primary ways we do this:
 
-- **Meet with the partner regularly** (at least weekly) to discuss what you're working on, share insights, and ask questions. Get clear early on about what meeting tools will work for everyone, and use video calls if possible.
-- **Send a "Weekly Ship:"** a quick report emailed to the client at the end of each week. Here's the [Weekly Ship template](https://docs.google.com/document/d/1ulPzFvBLunXm3MD0xL8nPzlJDOoFJbNLPo0Sl6ph99Q/edit), an example of a [Weekly Ship doc](https://docs.google.com/document/d/1uWNqM_2I3i1-UAysYxXt9C3UN_892sJoeeUV0z6wPhM/edit#heading=h.lg378il4ug92), and [the Weekly Ship origin story](https://docs.google.com/document/d/1tdbh_rmIsRgMEBQXh5x6fVAAE4ajUHj8eZ2eFF4acO0/edit#). We also share Weekly Ships in #the-shipping-news Slack channel, so we can see what's happening across projects.
+- **Meet with the partner regularly** (at least weekly) to discuss what you're working on, share insights, and ask questions. Get clear early on about what meeting tools will work for everyone, and use video calls if possible. Include partners in stand-ups.
+- **Send a "Weekly Ship:"** a quick report emailed to the partners at the end of each week. Here's the [Weekly Ship template](https://docs.google.com/document/d/1ulPzFvBLunXm3MD0xL8nPzlJDOoFJbNLPo0Sl6ph99Q/edit), an example of a [Weekly Ship doc](https://docs.google.com/document/d/1uWNqM_2I3i1-UAysYxXt9C3UN_892sJoeeUV0z6wPhM/edit#heading=h.lg378il4ug92), and [the Weekly Ship origin story](https://docs.google.com/document/d/1tdbh_rmIsRgMEBQXh5x6fVAAE4ajUHj8eZ2eFF4acO0/edit#). We also share Weekly Ships in #the-shipping-news Slack channel, so we can see what's happening across projects.
 - **Plan a mid-project review** with the partner after your research sprint to communicate progress, initial observations, and update the project brief as needed. If you've been meeting weekly, this may be a short check-in, but it's helpful to take stock and make sure you're still aligned on the focus and goals. As you create presentations and begin to share ideas, follow [presentation best practices](https://docs.google.com/document/d/1SwWADPsr_rDlHRaga7mFwY-F4vvrU8dfcmL9Sbbd364/edit) to ensure you're being concise and compelling.
 
-## 6. Write the final report
-Start writing at about the midpoint of your path analysis. This can mean outlining, starting a scratch document for recommendations, or sending preliminary findings in each weekly ship.
+## 6. Write the final report/presentation
+You can start writing your final report/presentation on day one of your path analysis, if you choose. You can start documenting notes and other items that may begin to frame out your paper.
 
-The [PA report template](https://docs.google.com/document/d/1DBgwnnHuvR2fAojOwjP8gZ3_jA9pEAGRRKOnmH69d0s/edit) offers lots of structure and advice to work with, even before you begin the drafing process.
+The [PA report template](https://docs.google.com/document/d/1DBgwnnHuvR2fAojOwjP8gZ3_jA9pEAGRRKOnmH69d0s/edit) offers lots of structure and advice to work with, even before you begin the drafing process.  You can restructure this report as you see fit to be tailored to what the partner needs.  For example, if your partner wants next steps up front, you can move actionable items to the beginning of the paper.
 
 **Aim to share your report — or at least its content — with partners well before the last week of the engagement, so they have time to react, ask questions, and clarify.** You don't need to wait until the whole report is fully baked before sharing; the more you can share initial recommendations and insights as you go, the better. Work with the partner to come up with recommendations that will work given the agency’s resources, culture, and priorities.
 
 A couple of tips to consider as you write:
 
 - **Write for all your potential audiences** - They likely include both technical and non-technical stakeholders.
-- **Tie your recommendations to your findings** - Best practices are great. So are your informed opinions. But findings are what you actually observed. It's a good idea to find out whether the client agrees with your findings before you start working with them on recommendations. If not, is there some context you're missing? Is the way you're articulating the finding not resonating? If you have a finding the client acknowledges but that isn't a priority for them, it's probably better for you to spend your time on recommendations for findings they do care about. 
+- **Tie your recommendations to your findings** - Best practices are great. So are your informed opinions. But findings are what you actually observed. It's a good idea to find out whether the partner agrees with your findings before you start working with them on recommendations. If not, is there some context you're missing? Is the way you're articulating the finding not resonating? If you have a finding the client acknowledges but that isn't a priority for them, it's probably better for you to spend your time on recommendations for findings they do care about. 
 - **Make sure your recommendations address your problem statement** - If they don't, either rewrite them so they do or rewrite your problem statement.
-- **If there's more work for 18F, say so** - We want to recommend what we truly believe to be in the client's best interest, not what's in our own self-interest. But if there's further work to be done, and 18F is in a position to do it, we need to connect those dots for the partner by saying so explicitly in the Next Steps section of the report. If the next steps for the project include a procurement, call this out and talk about potential options for the partner to procure a digital solution.
+- **If there's more work for 18F, say so** - We want to recommend what we truly believe to be in the partner's best interest, not what's in our own self-interest. But if there's further work to be done, and 18F is in a position to do it, we need to connect those dots for the partner by saying so explicitly in the Next Steps section of the report. If the next steps for the project include a procurement, call this out and talk about potential options for the partner to procure a digital solution.
 - **Ask for help from the Writing Lab** - The Writing Lab can help you write, organize, and edit final reports and slide decks. They'll meet with you to go over expectations and the type of help you're looking for, and you don't need a full draft in order to get help. [Submit an issue](https://github.com/18F/writing-lab/issues/new) to get started, or ask in the #writing-lab Slack channel.
 
 ## 7. Identify further work
