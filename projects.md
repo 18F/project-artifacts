@@ -198,6 +198,14 @@ Miatta Myers, Peter Burkholder
 
 ### Department of Justice (DOJ)
 
+
+#### DOJ-CRT Knowledge Management Path Analysis [#1182]
+- Date: January 2020 – March 2020
+- Team: Colin Murphy, Amanda Costello, Olesya Minina 
+- Summary: 18F partnered with the Department of Justice, Civil Rights Division (DOJ-CRT) to understand how CRT employees can better access and navigate information and guidance within the division. Over ten weeks, 18F worked to identify key problem areas to create a roadmap for prioritizing and addressing knowledge management challenges.
+- Theme: Knowledge Management, Justice Domain 
+- Deliverables: [final report](https://docs.google.com/document/d/1JiyoVNdzBwNygxX7woYFh-tHPh15sPrHq0ZQvCd4T3o/edit#), [Internal 18F README](https://docs.google.com/document/d/1JiyoVNdzBwNygxX7woYFh-tHPh15sPrHq0ZQvCd4T3o/edit#)
+
 #### DOJ / Civil Rights Division PA/E&I [#1051](https://tock.18f.gov/projects/1051/)
 - December, 2018 - February, 2019
 - Team: Olesya Minna, Uchenna Moka-Solana, Nikki Zeichner, Jacklynn Pham, Aviva Oskow, Rebecca Refoy-Sidibe
