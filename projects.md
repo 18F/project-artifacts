@@ -198,7 +198,7 @@ Miatta Myers, Peter Burkholder
 
 ### Department of Justice (DOJ)
 
-### DOJ 9/11 VCF Claims Review Path Analysis [#1170]
+#### DOJ 9/11 VCF Claims Review Path Analysis [#1170]
 - Date: December 2019 - March 2020 
 - Team: Ann Morey, Joe Krzystan , Mark Hopson, Olesya Minina
 - summary: 18F worked with the DOJ VCF team and leadership make better decisions through better data and building sustainable, flexible, and easy to use processes and tools that empower staff and claimants so VCF staff and claimants can get what they need out of the program. 
