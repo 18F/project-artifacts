@@ -198,13 +198,20 @@ Miatta Myers, Peter Burkholder
 
 ### Department of Justice (DOJ)
 
+### DOJ 9/11 VCF Claims Review Path Analysis [#1170]
+- Date: December 2019 - March 2020 
+- Team: Ann Morey, Joe Krzystan , Mark Hopson, Olesya Minina
+- summary: 18F worked with the DOJ VCF team and leadership make better decisions through better data and building sustainable, flexible, and easy to use processes and tools that empower staff and claimants so VCF staff and claimants can get what they need out of the program. 
+- Theme: Legacy system transformaiton, encapsulation, claims processing 
+- Deliverables: [final report](https://docs.google.com/presentation/d/1SiCuPnE2ZeShnn3K4rHYBr9OrA8Hhg4LkGOz7r4wk5Y/edit#slide=id.p), [Running weekly ship](https://docs.google.com/document/d/1y-Vx5R8PIVcmMoVGwYYtEy34IjBi8E_3D9LWQetWptI/edit), [post mortem](https://docs.google.com/document/d/1aZVuYSY4coyClQE0bNL1GN1H7fImOSNrFCh0VOKbE8s/edit?pli=1#heading=h.z4ro83s8fm92)
+
 
 #### DOJ-CRT Knowledge Management Path Analysis [#1182]
 - Date: January 2020 – March 2020
 - Team: Colin Murphy, Amanda Costello, Olesya Minina 
 - Summary: 18F partnered with the Department of Justice, Civil Rights Division (DOJ-CRT) to understand how CRT employees can better access and navigate information and guidance within the division. Over ten weeks, 18F worked to identify key problem areas to create a roadmap for prioritizing and addressing knowledge management challenges.
 - Theme: Knowledge Management, Justice Domain 
-- Deliverables: [final report](https://docs.google.com/document/d/1JiyoVNdzBwNygxX7woYFh-tHPh15sPrHq0ZQvCd4T3o/edit#), [Internal 18F README](https://docs.google.com/document/d/1JiyoVNdzBwNygxX7woYFh-tHPh15sPrHq0ZQvCd4T3o/edit#)
+- Deliverables: [final report](https://docs.google.com/document/d/1JiyoVNdzBwNygxX7woYFh-tHPh15sPrHq0ZQvCd4T3o/edit#), [Internal 18F README](https://docs.google.com/document/d/1JiyoVNdzBwNygxX7woYFh-tHPh15sPrHq0ZQvCd4T3o/edit#), [post mortem](https://docs.google.com/document/d/1uQeCJ-AO2Qs3hWm12RjmtYITrCVDeVhEjGHsmwofmbg/edit?pli=1#heading=h.z4ro83s8fm92)
 
 #### DOJ / Civil Rights Division PA/E&I [#1051](https://tock.18f.gov/projects/1051/)
 - December, 2018 - February, 2019
