@@ -340,10 +340,10 @@ Veterans use and VA representatives work with. Build a roadmap for integrating I
 - Identify and coach the NCATS team in ways they can improve the user experience of their public applications, using Pharos as a pilot example.
 - Deliverables: [readme](https://docs.google.com/document/d/17AA-RYGlJUcL8wXZq16B7rZ88PzaHFa1DLh__ku81GA/edit?ts=5c596adc), [final report](https://docs.google.com/presentation/d/1HW4IfZTMdYmd2VpWG8_Bmcfc7UrBitT2Byrb9pDYHbM/edit#slide=id.p), [project folder](https://drive.google.com/drive/folders/12yQhB-ehPrWcR4UdvbBoX69fDlAvNHq8)
 
-#### National Center for Advancing Translational Sciences (NCATS) Translator Path Analysis [#1074](https://tock.18f.gov/projects/1074/)
+#### National Center for Advancing Translational Sciences (NCATS) Biomedical Translator Path Analysis [#1074](https://tock.18f.gov/projects/1074/)
 - March-April 2019
 - Team: Kathryn Connolly, Jessie Posilkin, Aditi Rao
-- Conduct stakeholder interviews and generative user research for Translator, a new NCATS initiative which aims to facilitate researcher's ability to make connections across research and data from multiple disciplines, to help them more quickly identify new treatment opportunities for diseases. The results of the research informed directions for Translator's initial design, user experience, and data and API strategy in the E&I.
+- Conduct stakeholder interviews and generative user research for Translator, a new NCATS initiative which aims to facilitate biomedical researchers' ability to make connections across research and data from multiple disciplines, to help them more quickly identify new treatment opportunities for diseases. The results of the research informed directions for Translator's initial design, user experience, and data and API strategy in the E&I.
 - Next: This project rolled into a Experiment & Iterate phase. 
 - Deliverables: [readme](https://docs.google.com/document/d/1tjbmuYzM49zKTNIx3EQOpWS8ndTh2EbjhRJLt7V-A-c/edit), [initial discovery findings](https://docs.google.com/presentation/d/1jxdzf-jqeAK92PXvFosK3HQjQnRFQItJdcENZvHokP8/edit#slide=id.g617789f9c1_0_0), [final user research findings](https://docs.google.com/presentation/d/1CqbkTGDgYpHztc2Ksic-pH97xlUAmz891DZGcngSDfQ/edit#slide=id.g617929a700_0_217) (both were used to kick off the E&I), [project folder](https://drive.google.com/drive/folders/1OMBlJjqFRkHuV_zmhGO3ztZZUGNYWTxb)
 
