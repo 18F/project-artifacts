@@ -1,4 +1,4 @@
-# Path Analysis projects
+# Path Analysis Projects
 
 _Please note: many project deliverables are links to internal documents, and access may be limited to 18F and partner agency staff._
 
