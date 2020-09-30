@@ -13,7 +13,7 @@ _Please note: many project deliverables are links to internal documents, and acc
 
 ------
 
-## Past projects
+## Past Path Analysis projects
 
 - [Cabinet-level agencies](#cabinet-level-agencies)
   + [Department of Agriculture](#department-of-agriculture-usda)
