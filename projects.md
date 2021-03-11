@@ -260,7 +260,7 @@ Veterans use and VA representatives work with. Build a roadmap for integrating I
 
 #### Federal Acquisition Service (FAS) / Commercial Platforms Foundation Engagement [#758](https://tock.18f.gov/projects/758/)
 - April 2018
-- Team: Michael Cata, Brandon Kirby
+- Team: Michael Cata, Brandon Kirby, Steven Reilly
 - Define a high-level vision and roadmap for improving the federal purchasing experience.
 - Deliverables: [final report](https://docs.google.com/document/d/1ganft6g1jvChCiqCEABT4ZRX8523IvkDc6N4-YFKuN4/edit#heading=h.nfi7i0o0xz2c), [final presentation](https://docs.google.com/presentation/d/1VtPsmFP0f_FakW-ePs1PanlE0V-npSqMRE2zsjYUhoU/edit#slide=id.g35e4b9e59b_0_203), [project folder](https://drive.google.com/drive/u/0/folders/1St7ki-y6kEU9QvsbV75VgtRsstG0XXZU)
 
